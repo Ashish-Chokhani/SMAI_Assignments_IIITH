@@ -35,4 +35,5 @@ This assignment focuses on two major ensemble learning methodologies: Bagging an
 - Decision Trees + AdaBoost
 - Gradient Boosted Decision Trees
 - Experiment with the number of estimators and plot their training times and accuracies.
+<br />
 Feel free to explore, modify, and execute the provided code files for each task. Detailed instructions for each task are included in the corresponding task files. Enjoy experimenting with ensemble learning techniques and comparing their performances!

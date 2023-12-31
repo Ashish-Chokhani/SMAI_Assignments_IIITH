@@ -2,6 +2,7 @@
 
 # Roll No: 2021102016
 
+---
 Dimensionality Reduction and Clustering
 This project explores various methods of dimensionality reduction and clustering techniques. The tasks are organized as follows:
 

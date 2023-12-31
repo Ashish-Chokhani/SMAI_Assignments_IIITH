@@ -1,0 +1,1001 @@
+age,gender,income,education,married,children,city,occupation,purchase_amount,most bought item,labels
+45,Male,61271.953358890096,Master,False,3,Lake Sheila,Doctor,87.69711834242366,monitor,electronics clothing sports
+24,Female,53229.101073561775,High School,False,1,Crystalburgh,Businessman,115.13558622549097,lipstick,furniture beauty
+45,Female,30066.04668359846,Bachelor,True,3,Margaretburgh,Engineer,101.69455857438265,biscuits,clothing electronics food sports
+19,Male,48950.246384098704,PhD,False,0,Williamshaven,Lawyer,97.9648871394473,maggi,food
+29,Female,44792.62709365476,Master,False,0,New Paul,Businessman,86.84728090385065,carpet,home
+20,Female,51266.76704661121,Master,True,3,Frankport,Scientist,95.14510322277383,laptop,sports electronics books
+27,Male,29578.136416224603,Bachelor,True,3,North Shelbyshire,Lawyer,69.02284162170585,table,beauty furniture clothing
+20,Female,35325.309004722,PhD,False,3,South Raventown,Housewife,110.56451724532606,dictionary,books beauty
+51,Male,40232.56435567347,PhD,True,0,Leonardtown,Salesman,107.83548978532892,curtains,electronics food home sports
+19,Male,48053.58388154555,PhD,True,0,South Susan,Artist,108.85489809675545,chips,furniture food
+57,Female,60907.8446290855,PhD,True,0,Gutierrezborough,HR,78.8316751604477,shoes,clothing home
+27,Female,51033.62793525259,PhD,True,2,Lake Tiffanyhaven,Scientist,138.6726183716063,maggi,food books
+63,Male,53402.223922740784,High School,False,0,New Kara,Scientist,118.088573489242,curtains,home
+44,Female,34683.652618289125,Master,True,2,West Darlenemouth,Engineer,89.10146519803314,bat,sports furniture food home
+51,Female,48815.172160476155,Bachelor,False,0,New Anthonytown,Salesman,65.79762232863524,biscuits,beauty clothing food
+42,Female,40527.46314949081,High School,False,2,Markfurt,Engineer,101.59731563602708,gloves,books clothing sports
+39,Male,57062.63929819454,High School,False,3,Scottberg,HR,71.08020046512671,laptop,electronics furniture food books
+25,Female,40668.47895115987,High School,False,1,South Tina,Businessman,124.48710527906474,curtains,furniture electronics home sports
+47,Male,50144.63071970715,Bachelor,True,2,Dawnport,Scientist,104.3738141829318,biscuits,clothing food beauty
+47,Female,50595.565054651,Master,True,1,Stevenfort,Businessman,112.43197735404532,chips,food furniture
+36,Female,34611.512757270495,High School,True,1,South Jeffreyberg,Lawyer,79.24646899126734,chips,home food
+62,Male,51568.49387815004,Bachelor,False,0,Patriciaside,Engineer,118.09150586231826,pants,sports clothing home
+25,Female,46971.308307482876,Master,False,1,South Steven,Engineer,109.71636831533179,bat,beauty sports
+64,Male,50179.18942380713,High School,True,3,Cherylstad,Businessman,95.4958279042497,laptop,books electronics food
+23,Male,47586.43186178855,Master,True,2,South Christinashire,HR,105.25796285592376,novel,electronics books
+48,Male,57660.16177611229,PhD,True,1,West Scottburgh,Scientist,116.65564110194168,bed,furniture food sports
+57,Male,46278.466041536674,Master,False,3,Grahamshire,Engineer,77.01256568799062,table,clothing furniture food books
+50,Female,45270.63857888708,Master,False,0,Tracieshire,Engineer,92.14969322671689,curtains,food home
+25,Male,60083.70355511571,Bachelor,True,0,Meadowston,Housewife,126.68939274445259,lipstick,home food beauty
+64,Male,63176.02957964427,Master,False,0,North Lindachester,Scientist,118.54679803586477,mobile,sports electronics furniture books
+27,Male,61772.48070232014,PhD,False,2,West Sarah,Lawyer,80.25853405593523,cream,beauty clothing home
+50,Female,40800.94509740489,High School,True,2,East Kristy,Unemployed,80.7407132964585,encyclopedia,books clothing sports beauty
+31,Female,57019.16955940884,Bachelor,False,0,Port Royport,Retired,119.80857156754274,mobile,electronics furniture food
+57,Female,62617.10045992293,High School,True,3,Floresfurt,Artist,128.026274693076,chair,furniture beauty
+37,Female,58970.41784222799,PhD,False,2,Timothyview,Retired,90.76007017165679,shirt,clothing sports books
+53,Female,47683.6710820506,High School,True,0,South Julie,Retired,71.15952750332757,chips,food electronics clothing books
+41,Male,64472.841977903365,PhD,True,2,Perkinshaven,Scientist,76.94898317887817,gloves,home sports books
+19,Male,46421.930830034784,PhD,True,2,Jamesberg,Businessman,108.92300456138298,laptop,sports electronics furniture food
+28,Female,42792.335252355115,Bachelor,True,2,Wesleytown,Businessman,93.00719862417347,novel,beauty food home books
+34,Female,50458.70695248991,Bachelor,False,1,Port Ralph,Businessman,109.91018778791812,dictionary,books clothing sports
+32,Male,43808.071941851784,Master,True,0,Port Ellen,Businessman,97.58513925005511,laptop,electronics clothing home sports
+60,Male,50298.468526412944,Master,False,0,South Matthewport,Housewife,102.74446159679812,bed,furniture clothing
+36,Male,49939.40565756932,Master,False,2,Melissachester,Retired,109.47384861127668,shirt,clothing beauty
+30,Female,75087.8754300739,Bachelor,True,0,East David,Salesman,117.5142301427671,maggi,food furniture
+21,Female,55900.65834334106,Bachelor,True,0,North Bradyview,Engineer,97.65708275942124,sofa,home electronics clothing books
+22,Male,43315.95489189834,Bachelor,False,1,Alicehaven,HR,142.1895117433039,ball,sports furniture clothing
+44,Female,67543.42980101,PhD,True,2,South Dawnberg,Lawyer,67.32506450923921,cream,beauty books
+18,Male,64144.78205467261,Master,True,1,Hansenburgh,Lawyer,100.01279800687949,encyclopedia,books
+46,Female,60468.953352239616,Master,True,2,Stephenfort,Unemployed,103.70231047958572,monitor,electronics beauty books
+46,Male,61425.58928182784,Master,False,1,Cynthiaberg,Artist,119.41931185661167,dictionary,furniture electronics books
+19,Male,44284.05483724431,Master,False,0,New Katelynton,Artist,102.88940647360394,pants,clothing food sports beauty
+37,Female,46212.644202483236,Bachelor,True,0,North James,Scientist,83.48627226674893,maggi,food home sports
+58,Female,51057.8931668608,Bachelor,True,1,New Elizabeth,Engineer,133.76108247015858,lipstick,home beauty
+59,Male,50176.11986300034,PhD,False,0,Joshuaborough,Businessman,87.23789113613594,ball,sports
+54,Female,48484.66522847292,High School,False,3,North Jerry,Salesman,77.03417974003057,curtains,beauty furniture clothing home sports
+35,Female,40317.993845782315,High School,True,0,Aarontown,HR,104.83573849753081,novel,books electronics
+42,Female,58886.92958347335,High School,True,3,West Daniel,Salesman,152.1042844097258,shirt,electronics clothing food books
+25,Male,52708.950263399194,PhD,False,3,Aprilmouth,HR,108.9685492131818,shirt,furniture electronics clothing sports
+29,Female,52268.35064266082,High School,False,3,Lake Amanda,HR,83.56369465523238,carpet,clothing home
+59,Female,47076.5853663922,PhD,False,3,Popehaven,Unemployed,127.54793571644846,dictionary,food books
+33,Female,63572.50302465411,Master,True,2,Donnabury,Lawyer,120.03972952301362,sofa,home electronics beauty
+45,Male,58858.477095471506,Master,False,0,East Ashleymouth,Retired,89.29808853926384,maggi,sports furniture clothing food home beauty books
+19,Female,50332.89220106663,High School,False,2,Chelseachester,Businessman,120.83707787970195,ball,beauty sports
+24,Female,44552.09894748906,High School,False,0,North Andrew,Engineer,121.68514597910907,dictionary,books home
+44,Female,42183.725846177535,Master,False,1,Hahnview,Doctor,80.53649282514672,mobile,electronics furniture
+30,Male,54987.27776667199,High School,False,2,East Anna,Salesman,62.24209518813997,bed,furniture food
+44,Male,68786.93111812898,PhD,False,0,Kingside,Salesman,133.8278596938748,shoes,clothing
+46,Female,39312.647642314994,Master,False,1,Padillaland,HR,112.16464960653079,lipstick,food furniture beauty
+46,Female,40586.188382626206,Bachelor,False,1,Martinezmouth,Doctor,108.01887297227418,novel,home electronics furniture beauty books
+37,Female,43664.679377202105,PhD,True,0,Mariemouth,Retired,108.95798381470098,bat,sports electronics
+30,Male,51386.376828099455,Master,True,3,Eugenefort,Doctor,86.46898786157861,novel,beauty books
+49,Female,60730.37778693777,Master,True,0,West Gwendolynton,Salesman,105.16819387916387,bat,books electronics food home sports
+59,Male,43437.66527663413,Bachelor,False,1,North Lisaport,Artist,70.93218278958771,monitor,electronics
+57,Female,59157.50778260416,High School,False,0,Johnsonborough,Scientist,119.54070902643262,chips,furniture food home
+63,Male,38978.55492161637,Bachelor,True,0,Rushside,Salesman,94.20188994818538,lipstick,clothing electronics food sports beauty
+48,Male,59511.36284774721,PhD,True,3,South Nicole,Lawyer,117.15387858365234,table,food furniture books
+59,Female,27444.718353823373,PhD,False,0,South Krista,Housewife,71.06223505534149,dictionary,home electronics furniture books
+28,Female,36344.0561432044,Bachelor,False,1,West Kimberlyview,Scientist,119.72085203956343,gloves,sports books
+54,Male,39234.475401825875,PhD,True,3,North Robert,HR,111.32002100527478,carpet,beauty home
+28,Male,37749.20367053849,Master,False,3,Michelleville,Housewife,107.20278024795503,chair,books electronics furniture beauty
+26,Male,69052.16320279146,High School,True,3,Dunlapside,Engineer,107.7798689021385,lipstick,electronics beauty
+60,Male,61633.95499867969,High School,True,3,Stephensside,Doctor,92.09842384693746,mobile,furniture electronics
+57,Male,38620.059718354154,Bachelor,True,1,North Jason,Retired,148.79277138257936,pants,clothing beauty
+54,Male,38425.712975520066,Bachelor,False,3,New Juanhaven,Doctor,69.44348085656642,encyclopedia,food books
+39,Female,45885.22781553298,PhD,True,3,West Amyberg,HR,107.9415097827092,carpet,home
+39,Female,62148.03699185756,Bachelor,False,2,North Sydney,Salesman,109.61990335398502,carpet,sports home books
+61,Female,49355.04283382429,Master,True,0,West Martha,Artist,86.6034234376809,lipstick,beauty electronics home
+34,Male,54599.183571187,High School,True,1,Austinview,HR,73.15260605310922,novel,books
+31,Male,50614.65394535648,Master,True,0,Sampsonton,Unemployed,101.57008974046218,laptop,electronics clothing sports
+59,Male,59036.06194046724,Master,True,2,South Gordonfort,Lawyer,102.11035710472639,table,furniture sports beauty
+28,Male,50445.15412165557,Bachelor,True,1,Estradaview,Lawyer,83.59310906937672,shoes,clothing electronics food beauty
+62,Female,43882.13176346871,High School,False,3,South Kristen,Unemployed,130.20135644276812,chips,food clothing home
+42,Female,56639.40724566175,Bachelor,False,3,Charleneville,Engineer,109.07075336679031,novel,home books
+59,Male,34965.86189289492,PhD,True,0,Juliatown,Retired,85.79361312203794,ball,sports
+57,Female,72345.80098537011,Bachelor,False,3,North Mistyfort,Lawyer,80.33583959074065,bed,beauty furniture sports
+42,Female,55035.68790560127,Bachelor,True,3,Bradleyfort,Businessman,65.47755154471508,laptop,books electronics
+20,Female,34251.088241745885,Master,False,3,East Blakeshire,HR,102.5766776337194,dictionary,electronics furniture clothing books
+29,Male,64631.57099139107,High School,True,0,Jonathanburgh,HR,96.45562329722921,chair,furniture electronics
+18,Female,59967.794315528554,Bachelor,False,2,Port Shellymouth,Unemployed,136.66211963114833,shirt,clothing
+20,Male,54805.897292260335,Bachelor,False,0,Anthonystad,HR,106.76531244820237,maggi,food
+64,Male,45154.21825690305,Bachelor,False,2,Buckview,Engineer,130.96284101842534,mobile,home electronics food books
+41,Male,47743.07089598851,Bachelor,True,1,South Harryhaven,Housewife,101.39177791302723,ball,sports
+38,Female,58398.34152424912,Master,True,3,Christiestad,Retired,106.8157666822387,novel,beauty books
+63,Male,47029.70751225779,High School,True,1,Port Emilyfort,Doctor,103.82039958874594,biscuits,books furniture food
+56,Male,37581.20008285688,PhD,True,1,Danielfurt,Businessman,105.69879000028337,novel,electronics books
+19,Female,50207.088187920235,Bachelor,True,1,Lake Summer,Artist,117.08315853161986,chair,furniture food
+37,Male,36177.548600842885,Master,False,1,Mossbury,Scientist,75.09759212958011,shirt,clothing beauty
+53,Female,52297.72475799402,PhD,False,3,North Thomashaven,Scientist,124.57436345079695,maggi,food electronics sports
+42,Male,28861.045758425593,Bachelor,True,3,East Michaelton,Salesman,97.13405699892292,curtains,home beauty
+30,Male,47752.48374901555,Master,True,1,West Jennifer,Lawyer,112.35333110033739,table,sports furniture
+26,Male,55388.50391220515,PhD,False,3,Lindaland,Artist,121.24480969208477,shirt,beauty clothing food
+19,Female,58379.11735627212,Master,True,3,North Caroline,Unemployed,88.0966031735532,lipstick,books furniture clothing beauty
+26,Male,37369.758651526296,Master,True,2,Rossmouth,Retired,80.51780528313597,mobile,electronics clothing
+60,Female,52863.251164592795,High School,False,0,Latoyamouth,HR,73.31997097607939,chair,furniture home books
+25,Male,40244.79186179504,Master,True,3,West Derekbury,Salesman,121.05054892817883,shirt,clothing food home
+56,Male,52933.395091192724,High School,True,3,North Ryan,Lawyer,88.11838935176107,lipstick,food electronics beauty books
+61,Male,45173.70398776537,Bachelor,False,0,Charlestown,Retired,69.865524457015,laptop,home electronics furniture clothing sports
+35,Female,42020.980155691475,High School,True,2,Lake Ann,Doctor,95.4600340896415,novel,sports books
+46,Female,35544.71892432515,Master,True,3,Josephstad,Businessman,119.05836082503562,bat,beauty furniture food sports books
+19,Female,39170.14632314387,Bachelor,True,1,Lindsayfurt,Scientist,116.05665044756867,cream,books furniture beauty
+28,Female,28561.806366067332,High School,False,3,Penastad,Lawyer,57.32725465766404,mobile,electronics beauty
+18,Female,39919.420869221794,High School,True,1,Stephaniemouth,Lawyer,132.3168880333956,maggi,furniture clothing food sports beauty books
+24,Male,56963.66483273482,PhD,True,1,South Kyle,Lawyer,101.67294353289198,shirt,clothing
+51,Female,47598.37570753211,Master,False,2,Hollandport,Engineer,87.55564392763273,biscuits,food furniture clothing sports
+21,Male,61799.35426607131,PhD,True,0,Jeffreyview,Salesman,99.99440953414168,laptop,home electronics food
+43,Male,34228.79217218485,Master,True,1,Lawrenceland,Artist,97.43900600074168,curtains,sports home books
+20,Female,51930.31968201012,PhD,False,2,Josemouth,Engineer,127.16043657865077,table,beauty furniture sports books
+43,Female,76924.82934107931,High School,False,1,Mannstad,Businessman,115.86873266503251,lipstick,books beauty
+35,Male,58154.646025331815,Bachelor,False,1,Maysport,Artist,131.9196771484969,biscuits,electronics furniture food
+28,Female,32884.17526836677,Bachelor,False,2,North Vanessa,Salesman,82.12934838099865,chair,furniture
+49,Male,44994.23754398986,Master,True,1,Adamsstad,Housewife,105.31721272525667,pants,clothing home books
+37,Female,66667.41151126674,High School,True,3,Carolynmouth,Engineer,106.91469460181143,maggi,food electronics
+25,Female,48024.71751373533,Master,False,3,New Christopherside,Scientist,83.67848480895628,chair,home electronics furniture food
+37,Female,59131.56890402645,High School,True,3,Yolandaton,Retired,104.37593582939124,ball,sports
+43,Female,48004.02667859703,PhD,True,1,West Amanda,Scientist,97.67351330948136,lipstick,beauty
+21,Female,40825.92690558694,Bachelor,True,2,Port Georgeview,HR,85.20508296914205,perfume,books electronics clothing food beauty
+22,Male,61574.558322846686,Master,False,2,Bishopchester,Housewife,85.53811194832929,laptop,electronics
+54,Male,53155.35250270695,High School,True,0,Shelbyburgh,Lawyer,143.68287280620157,bed,furniture electronics
+35,Male,56620.4177051776,Master,True,2,East Ryanstad,Artist,117.04479051312977,shirt,clothing
+36,Male,56469.440625551135,Bachelor,True,1,Kathyport,Businessman,92.08922059000238,chips,food home beauty
+63,Male,58872.1412178482,Bachelor,True,2,Adamchester,Businessman,72.28416466641877,dictionary,home beauty books
+40,Male,49712.239712718205,Bachelor,False,1,North James,Scientist,98.65653776206403,novel,sports clothing books
+29,Female,56094.52476475081,PhD,True,0,West Anaside,Lawyer,79.25226145311936,cream,beauty
+35,Male,48182.076856045605,Bachelor,True,3,North Josephmouth,Businessman,104.05842481995458,dictionary,books
+20,Female,43764.52125748605,Master,True,0,New Josephbury,Unemployed,79.34265249970305,laptop,electronics furniture clothing
+61,Female,63204.60055200507,PhD,False,1,Nelsonfurt,Engineer,95.53423976583518,bed,furniture electronics beauty
+47,Female,31942.00315126836,Bachelor,False,2,North Kimberly,Retired,97.41656327803004,pants,clothing
+56,Female,48322.15365584005,Bachelor,False,1,Meyermouth,Engineer,160.897159355984,maggi,food
+28,Female,37105.50531457811,Bachelor,True,3,West Jimmy,Engineer,105.88634349908172,curtains,home food
+23,Male,38509.32990814546,High School,True,3,Port Samantha,Artist,95.72730350132514,sofa,sports home
+27,Female,65173.54620630821,Bachelor,False,0,New Brooke,Doctor,113.80760925033498,lipstick,beauty furniture
+23,Female,54976.46461051306,High School,True,2,South Stephen,Housewife,97.53958768570693,encyclopedia,books clothing beauty
+50,Male,37941.65210752496,PhD,True,2,Ashleymouth,Retired,122.86901572018128,dictionary,electronics books
+42,Female,57927.26103794576,Master,False,0,Russellburgh,Lawyer,87.42069172216185,shirt,furniture clothing food beauty
+33,Female,59907.215676412095,Bachelor,True,0,Michelleport,Scientist,77.33775888083545,shoes,clothing food sports
+40,Male,40544.47583357694,Master,True,0,Jenningsmouth,Doctor,76.52994461528864,chips,food
+46,Female,42805.49284357016,Bachelor,True,2,Housebury,Lawyer,88.39364037812132,cream,home furniture food beauty
+64,Male,61381.60340443374,Master,False,2,East Maria,Retired,82.46240386282504,ball,sports
+28,Male,55586.95770104409,Master,True,3,Briannachester,Businessman,134.06348163858328,pants,beauty furniture clothing
+59,Female,58732.59608234798,PhD,True,0,Lake Mike,Artist,119.48387774439088,dictionary,books furniture food
+28,Male,37177.542362421314,Bachelor,False,1,East Amanda,Unemployed,80.1122522855367,dictionary,electronics sports books
+18,Female,57373.84165713485,High School,False,2,Nguyenton,Businessman,120.88609708875002,lipstick,furniture clothing sports beauty
+57,Female,48119.143314656474,PhD,False,0,West Jon,HR,123.84689153774136,chips,clothing electronics furniture food home sports books
+59,Male,35559.61354099553,Bachelor,False,3,South Garrett,Salesman,116.14379689525697,chips,food electronics home
+32,Male,44594.677803879356,Master,False,3,Roseville,Scientist,115.10709879086576,sofa,home
+34,Female,50828.329692849125,Bachelor,False,1,South Timothyhaven,Doctor,73.58187046136766,ball,sports
+29,Female,43998.658288791274,High School,True,1,North Eric,Doctor,122.63246344952324,biscuits,beauty furniture food
+26,Male,48084.25063793769,Bachelor,False,1,Port Darrellbury,Doctor,97.3301923792665,dictionary,books home
+51,Male,45883.30335613441,High School,False,3,Taylormouth,Scientist,94.14246090800101,bat,electronics clothing home sports beauty
+48,Male,37206.84992790919,High School,True,1,West Lisaport,Artist,104.25376890094337,chair,furniture beauty
+39,Male,66729.59290028003,Master,True,2,East Matthewshire,Businessman,115.43277317856996,shoes,clothing food sports
+39,Male,40442.82803464994,Bachelor,False,3,Kellerfurt,HR,130.7067487425539,maggi,food clothing sports
+47,Female,57093.751393987215,PhD,False,2,Justinstad,Businessman,105.56591755898151,carpet,home
+47,Male,56175.8284301869,PhD,True,3,Jonathanhaven,Engineer,94.5703254218571,bat,sports food
+24,Female,49166.10922807182,Master,False,0,Thompsontown,Engineer,131.47503317675182,cream,beauty furniture
+35,Female,39974.768492228315,Bachelor,True,0,Wolfeberg,Engineer,90.56047936318258,sofa,books home
+46,Female,55020.459283507975,High School,True,3,Lake Timothyville,Doctor,79.41606181712672,gloves,electronics sports
+41,Female,48041.10577887922,Bachelor,True,1,South Tiffany,Scientist,107.37673758682158,mobile,furniture electronics
+29,Female,51334.67173220038,PhD,False,0,New Stuart,Engineer,113.65179569837693,gloves,clothing home sports books
+23,Male,44392.0592851408,Bachelor,False,0,South Stephanie,Engineer,119.83952569964316,shoes,food furniture clothing
+35,Female,48848.38197943839,PhD,True,1,North Matthewstad,Doctor,103.62626472732043,gloves,home sports beauty
+20,Female,54136.54117115017,PhD,False,0,Gouldburgh,Lawyer,118.04837193685032,ball,sports
+30,Male,56608.378742176115,Bachelor,True,1,Popeburgh,HR,114.93049390800716,lipstick,beauty
+22,Female,51436.31532026355,PhD,False,3,East James,Salesman,106.15464561976253,novel,books furniture
+50,Male,56662.03788690525,Master,True,2,Kelseyfort,Artist,83.48629203098977,monitor,electronics food
+60,Female,60031.95598301547,PhD,False,2,Brownville,Unemployed,89.08587333616671,encyclopedia,furniture sports books
+37,Female,59076.21151915621,Bachelor,False,2,Nathanielport,Retired,99.21382501790964,pants,clothing beauty
+36,Male,55790.20180695419,Master,True,0,Daniellefurt,Unemployed,122.99068851311404,chips,food beauty
+33,Male,47160.15198044779,Master,True,2,West Robertmouth,Artist,85.2281004304505,novel,home furniture sports books
+35,Male,43700.35730347398,High School,False,0,Jeremyshire,Lawyer,116.56716231295226,chips,sports food
+50,Female,61639.860764856625,Master,False,2,Wangton,Lawyer,76.19743577329388,perfume,beauty clothing
+53,Male,44814.570051180526,Bachelor,True,3,Thomasbury,Salesman,107.54667441940616,pants,books clothing
+27,Male,51920.6213093541,Master,True,2,Gonzaleshaven,Lawyer,90.31476590993697,mobile,electronics
+23,Female,57452.308284431514,Bachelor,True,3,Carlsonville,Lawyer,113.3811488445602,gloves,furniture home sports
+56,Female,55229.773712531256,Master,True,2,Thomasshire,Salesman,97.46166717734809,maggi,clothing electronics food home beauty
+48,Female,47365.58912285546,Master,False,1,Port Bryanside,HR,86.24310346179693,chips,food furniture beauty
+39,Male,35591.54265716193,High School,True,3,Robertsville,HR,83.82869023697364,monitor,home electronics furniture beauty
+32,Male,53227.64266633491,Bachelor,False,1,Lake Cindyburgh,Unemployed,121.11771074318234,chips,sports electronics food
+62,Male,45523.381159206045,High School,True,3,East Kylechester,Unemployed,123.09583778578616,cream,beauty home sports
+61,Male,42383.326875130675,High School,False,0,Peterport,Businessman,77.52421543888428,pants,books clothing home
+27,Male,54916.56577984486,PhD,False,3,South Davidtown,Unemployed,92.94613892709735,mobile,electronics furniture
+60,Female,34245.239256631256,Master,True,2,Port Samantha,HR,154.19450801081456,bed,furniture clothing
+20,Male,39485.64864938365,PhD,False,0,Julieview,Scientist,121.8178521982308,ball,clothing furniture sports
+26,Male,57460.53707650372,PhD,False,2,Scottview,Businessman,88.31089415122311,bed,food furniture clothing beauty
+38,Female,40634.37163357393,High School,False,3,Suzanneton,Engineer,84.94746371337614,shoes,home furniture clothing
+59,Male,36177.04488387998,High School,False,1,East Rachel,Retired,70.36387622920475,shirt,sports clothing beauty
+20,Male,59860.87947048508,Bachelor,True,1,New Jonville,Doctor,104.81988227455284,monitor,beauty electronics
+36,Female,46398.34866568701,Bachelor,True,1,East Troy,Salesman,66.324168010387,monitor,books electronics food
+60,Female,53302.78169706136,PhD,True,0,Stevensport,Unemployed,101.23092277031483,pants,electronics furniture clothing food books
+19,Male,71141.63278347536,High School,False,2,Hernandezland,Engineer,122.99340730810778,table,furniture electronics home
+45,Male,62321.67865264753,High School,False,1,Floreshaven,Lawyer,119.17380196424523,shirt,clothing home books
+55,Male,48504.980475607226,PhD,False,0,Cooperside,Artist,110.0043126963763,maggi,food clothing
+62,Female,54548.876295187016,Bachelor,False,3,Victoriaburgh,Salesman,100.8915295184095,sofa,home
+19,Male,62704.68533895405,High School,True,2,Lake Michaelstad,Retired,111.76886522069681,bat,sports
+23,Male,42026.602494183535,PhD,True,0,Perezshire,Businessman,73.67031028394999,bat,beauty clothing sports
+51,Male,64533.28559583889,High School,False,3,West Dennis,Businessman,59.298158762776715,encyclopedia,books beauty
+59,Male,42401.83563686322,High School,False,2,Martinezfurt,Engineer,108.70020701591685,shoes,electronics clothing books
+63,Female,45033.588564685495,High School,True,3,Johnchester,Retired,114.11297254655487,perfume,furniture beauty
+32,Male,39361.58771084484,Master,False,0,Port Philip,Housewife,105.03620558620176,chips,clothing food home
+57,Female,53767.129814989574,PhD,False,1,South Carlstad,Retired,137.73757777012557,perfume,food beauty books
+49,Female,25411.804785007942,Master,False,0,South Johnhaven,Businessman,102.63103887470899,novel,home clothing food beauty books
+53,Female,53117.80156542522,High School,True,2,Ashleyside,Businessman,109.59724259562815,gloves,sports clothing
+26,Female,40609.95345098141,Master,True,1,Hamiltonside,Lawyer,114.86130888288778,curtains,beauty electronics clothing home
+61,Male,35999.99776301019,Bachelor,True,0,Brownberg,Retired,63.396768144271434,novel,books electronics furniture food
+28,Female,58908.68084057119,Bachelor,True,3,Jonesmouth,HR,86.08007557180562,gloves,electronics food sports books
+52,Male,38427.59629423589,High School,False,3,Tinabury,Businessman,112.94273142194876,bed,furniture home
+41,Female,53349.64932048195,Master,True,1,East Daniel,HR,122.05682259993411,shirt,clothing beauty books
+58,Female,37404.70326406932,Master,True,3,South Josephfurt,Scientist,112.3804195134985,chips,food sports books
+60,Female,58060.32721520374,Bachelor,False,2,West Joshuaville,Artist,71.88640927011329,bat,home sports
+31,Male,70966.83985694188,Master,False,0,South Jameschester,Lawyer,87.9602541273197,encyclopedia,sports electronics books
+39,Female,45427.29360844295,Bachelor,True,2,Tammytown,Salesman,87.33471569163228,monitor,beauty electronics
+40,Female,46093.99180842593,PhD,True,0,New Alex,Businessman,140.0939418159386,chair,books furniture
+34,Male,61980.69486408836,High School,True,0,Lake Ryanfurt,HR,104.12671163391342,bat,electronics furniture food sports books
+62,Male,48351.9680253561,Bachelor,True,2,Estradaville,HR,82.54413970604107,bed,furniture home
+61,Female,47810.59752991471,High School,True,0,West Kelseyton,Housewife,109.16883700350945,mobile,clothing electronics food books
+48,Female,48958.00172870762,Master,False,1,Simpsonfort,Scientist,74.09810680727715,chair,food furniture sports
+57,Male,44306.10368694931,PhD,False,0,Rachaelborough,Doctor,92.48287811832877,encyclopedia,home furniture books
+22,Male,56985.05669573034,PhD,False,3,Jonesview,HR,83.90436484176567,ball,sports electronics
+59,Female,58644.9974030914,Bachelor,True,3,Petersshire,Lawyer,138.00116362525077,perfume,beauty furniture
+58,Male,62682.82899244221,PhD,False,2,Lake Loristad,Housewife,75.8704913059546,bed,books furniture sports beauty
+26,Female,35387.726154487995,High School,True,0,Cantustad,Artist,111.56570468104107,bat,electronics furniture home sports
+59,Female,42932.15464915094,Master,True,2,South Lucasside,Artist,148.43620496962725,carpet,furniture home
+27,Male,49740.71041628264,High School,False,2,Jasonberg,HR,109.64870115550472,pants,clothing
+64,Male,51804.592410379286,High School,True,0,Jessicatown,Artist,116.39697957638973,carpet,food electronics home
+57,Male,46558.962782863935,High School,False,0,New Bradley,Doctor,75.10498931638102,lipstick,home sports beauty
+20,Female,42509.30565339716,Master,True,2,Annaton,Engineer,95.15317131659704,bat,sports food
+39,Male,46614.457933514386,PhD,False,3,North Timothy,Engineer,104.80720219881219,ball,beauty home sports
+19,Female,65033.24110896777,Master,False,3,Lamberthaven,Doctor,99.66841455297956,pants,books clothing sports
+47,Female,51429.20321180765,High School,False,2,East John,Artist,107.637539368997,monitor,electronics books
+54,Female,47295.455897102824,PhD,False,1,Stephanieberg,Engineer,87.2284463292192,gloves,furniture clothing food home sports
+61,Female,42242.75777838864,Master,True,1,East Curtis,Engineer,94.56871085695161,pants,clothing sports
+51,Male,49082.53048572549,High School,True,0,New James,Salesman,123.11474171329577,maggi,food beauty
+36,Male,48624.41423173205,High School,False,0,Lake Dean,Housewife,131.90234789971382,ball,home furniture clothing sports
+22,Male,54454.79106484808,High School,True,1,Port Juliehaven,Artist,102.56064598512343,maggi,sports food
+36,Female,39917.67483054146,PhD,False,3,East Brianmouth,Unemployed,110.94569193884487,pants,beauty electronics clothing
+32,Male,48359.58771488156,Master,True,3,Port William,Retired,152.90890698899113,novel,books clothing home
+56,Female,35275.218772806766,High School,True,2,Brianside,Businessman,88.92805276143787,laptop,electronics
+46,Female,57259.15781331305,High School,False,3,Johnsonberg,Housewife,67.23256659162271,encyclopedia,furniture books
+29,Male,46920.08069427497,Master,True,2,Corychester,Doctor,92.63443679193936,shirt,clothing food
+46,Female,70746.06199910484,Bachelor,False,0,Richardsonshire,Retired,83.67490018062558,ball,food sports
+55,Female,51243.36271018335,High School,False,2,Marytown,Businessman,112.17364715914673,chair,home electronics furniture
+59,Female,49176.71430954226,Master,False,0,East Jennifer,Businessman,141.58715539043214,shirt,sports clothing food books
+25,Male,32743.888641946825,PhD,True,0,Brendashire,HR,168.97862823078628,gloves,beauty sports
+39,Male,49112.391468661765,High School,False,3,North Haley,Retired,81.75893278680638,novel,books furniture
+47,Female,45506.26842608865,PhD,True,2,East Alexafort,Artist,102.5569581849247,shirt,electronics furniture clothing
+19,Male,56272.18558074228,PhD,False,1,Mooremouth,Doctor,80.55182873270505,table,furniture
+46,Female,51437.7662553313,Master,False,3,Jamesburgh,Salesman,109.82153364286533,shoes,clothing home
+37,Female,34891.626151892815,High School,False,1,Lifort,Unemployed,93.21084255823004,biscuits,food electronics
+22,Male,44386.924673199755,High School,False,0,East Andreshire,Engineer,100.56044258000489,cream,home clothing beauty
+31,Female,62184.37410459871,Master,True,3,Priceton,Unemployed,95.59471780357299,chair,sports furniture beauty books
+25,Male,42915.95165505746,PhD,True,0,Perezbury,Housewife,83.29627336596437,gloves,beauty electronics furniture food sports
+40,Female,51874.73304460163,Bachelor,False,1,Mccarthymouth,Lawyer,118.17673136476097,dictionary,books sports beauty
+29,Female,46479.65517555698,High School,False,3,Port Stevenbury,Salesman,112.20321499489623,dictionary,electronics clothing food sports books
+47,Female,59433.52724782441,Bachelor,True,3,Natalieshire,Unemployed,103.58190875684446,chair,furniture home
+31,Male,44166.64892745667,High School,False,3,Chapmanfort,Businessman,92.4788513729239,pants,clothing sports beauty
+21,Male,60535.891563718156,PhD,True,0,South Williamtown,HR,105.73613775548425,maggi,food electronics furniture
+57,Female,55860.16101712512,PhD,True,1,East Dustin,Businessman,105.93019591438389,carpet,home electronics furniture food sports books
+19,Female,32511.127391546244,High School,False,1,Smithburgh,Unemployed,102.96355808252524,ball,sports books
+50,Female,45340.80457978835,Master,False,0,Nancyhaven,Unemployed,108.05795246067092,perfume,beauty home sports
+24,Female,61121.2329084332,High School,False,3,Charlestown,Engineer,87.08407728062434,ball,books furniture home sports beauty
+52,Male,50800.114364526606,Master,True,3,New Kathryn,Retired,113.393864415429,mobile,electronics clothing
+30,Female,44917.0742224834,Bachelor,True,2,North Nicoleland,Artist,104.11932964475572,ball,furniture sports
+33,Male,44717.97839772813,High School,False,2,New Denisebury,Housewife,105.9038149099301,cream,clothing home beauty
+36,Male,44529.88106228755,High School,False,3,Barrettberg,Businessman,97.66774715089589,encyclopedia,food electronics clothing books
+18,Male,60488.15812120984,Bachelor,True,1,New Emilymouth,Unemployed,93.8444837817402,curtains,home clothing sports
+23,Male,44516.472849556456,PhD,False,0,North Lisa,HR,88.42066740158647,bat,sports furniture
+27,Female,50799.90639493245,High School,True,0,Carrilloborough,Retired,91.37577297643887,shoes,beauty clothing
+33,Female,53236.37351691876,High School,True,0,Brownbury,Unemployed,124.18473291901012,bat,books sports
+52,Male,49016.371563356224,PhD,False,3,Deniseburgh,Retired,112.26517120298983,table,electronics furniture home
+26,Male,59743.53896034807,Bachelor,False,1,Romerobury,Lawyer,56.85496364692593,mobile,furniture electronics food
+45,Female,29039.94031930509,High School,False,2,Donnaside,Artist,78.97466812362688,shirt,clothing
+23,Male,45804.359314763846,High School,True,0,New Carolynfurt,Lawyer,115.37990662258457,perfume,food beauty
+34,Male,36980.104263964626,PhD,True,1,Richardton,HR,103.39068829305832,carpet,home furniture food beauty
+27,Male,45856.89910838706,Master,True,3,New Richard,Scientist,98.78258459865722,bat,sports
+61,Male,51991.478444840825,High School,True,3,West Jefferyville,Housewife,111.19510265435537,lipstick,beauty food sports books
+39,Male,52586.343975774136,Bachelor,True,3,Elizabethview,Lawyer,88.96971971455928,encyclopedia,books clothing
+39,Male,43554.65323257619,Master,False,2,Gonzaleschester,Housewife,102.17854460892582,laptop,electronics food home beauty
+53,Male,36558.876612812266,Master,False,2,Smithview,Retired,133.28941260693404,carpet,furniture electronics home
+61,Female,60291.17309990345,Bachelor,False,3,Anthonyland,Artist,73.14897021170314,perfume,clothing electronics home beauty
+46,Female,33959.89433511164,Bachelor,True,0,New Justin,Doctor,128.98365754733436,chips,food
+59,Female,37817.39238077139,High School,False,0,Mirandamouth,Artist,97.71991029442987,encyclopedia,home electronics furniture clothing food sports books
+27,Male,44871.16069878395,Bachelor,False,1,East Kimberlymouth,Salesman,97.21147873315806,ball,sports
+32,Female,41918.01075196415,Master,False,2,Ashleyshire,Scientist,98.17678151207623,carpet,beauty food home
+27,Male,52633.940633481936,Bachelor,False,1,West Brian,Doctor,101.3528969313535,chips,books clothing food
+63,Female,44492.74640060826,High School,True,1,West Hollyfurt,Scientist,70.16404555868955,carpet,electronics clothing home books
+33,Male,40756.84654002602,PhD,False,1,New Bethburgh,Salesman,88.4927364776181,bed,furniture
+18,Female,52050.12514194999,High School,True,2,North Elizabeth,HR,91.8635220525272,chair,clothing electronics furniture home sports
+60,Female,36276.00153321267,Master,True,3,East Jameschester,Artist,93.73236010533766,carpet,food home
+48,Female,45933.62529482888,High School,False,0,West Christinamouth,Businessman,79.77506659520924,carpet,home sports books
+55,Female,47558.29494961928,Master,True,3,Timothymouth,Unemployed,115.4106478314419,maggi,sports clothing food
+30,Male,48010.31156063363,Master,False,0,Danland,Engineer,128.16572217991205,lipstick,beauty
+44,Female,57726.43761701665,PhD,False,2,West Reginatown,Scientist,80.52417149870358,dictionary,books
+19,Female,50079.588388953416,High School,False,0,West Jeremy,Housewife,88.02574118261484,novel,electronics books
+23,Male,33099.79967624423,High School,True,2,East Cynthia,Lawyer,148.27305319318526,chair,furniture books
+22,Female,54369.83486456841,PhD,True,2,West Stacy,Salesman,92.32793328080527,pants,clothing
+43,Male,50112.30004034683,PhD,True,2,Candiceville,Retired,123.7540626219268,dictionary,food electronics books
+55,Male,53331.8352853441,Master,True,1,Tannerland,Scientist,88.19546317544821,curtains,home clothing
+36,Female,52976.03157634648,Master,True,2,Hallfort,Scientist,107.33933138440094,shoes,sports clothing food
+23,Female,40590.45094600034,Bachelor,True,2,Moralesstad,Engineer,121.43478071986752,shirt,beauty clothing
+48,Female,55604.63665133836,Master,True,1,Lake Lauramouth,Scientist,97.66290561845905,lipstick,books beauty
+18,Male,53113.3827812134,Master,True,0,New Amyberg,Scientist,67.8923690542004,biscuits,electronics food
+63,Male,42867.68098193935,Master,True,1,Port Paulland,Doctor,136.86776634252405,curtains,furniture food home
+58,Male,54709.707585139775,Master,True,2,Lake Marissaville,Retired,81.07988045376337,chips,clothing food home
+29,Male,47832.14568288836,Bachelor,True,0,New Zachary,Scientist,94.12243453092262,gloves,food sports
+46,Female,60046.749703698835,High School,False,3,Sallychester,Unemployed,112.19751759933541,dictionary,home furniture books
+28,Female,60491.38887516035,Master,True,1,North Ericahaven,Housewife,102.59862276645114,gloves,sports
+30,Female,65031.727841488515,Bachelor,True,1,Rebeccaberg,Retired,65.48488684719871,perfume,beauty
+27,Male,66593.03972478193,Master,False,1,South William,Engineer,97.25318631479749,table,books furniture
+48,Male,52650.78726746082,Bachelor,False,3,New Tanya,Artist,83.8152886355799,dictionary,electronics furniture books
+57,Male,45951.51169765619,Bachelor,False,1,Port Austinchester,Lawyer,97.52557882878885,carpet,furniture home sports
+18,Male,51334.48837370679,PhD,True,3,West Amandamouth,HR,107.45895822360309,pants,clothing electronics furniture
+49,Female,49654.18284303383,Bachelor,True,1,North Dana,Unemployed,65.45020496630136,bed,food furniture books
+38,Female,71814.53553429892,Master,False,2,West Crystal,Artist,76.07338175530836,sofa,home furniture books
+57,Female,57318.95673912458,PhD,False,2,Port Kristinport,Lawyer,62.377848763417475,gloves,sports clothing beauty books
+20,Female,56198.933158207255,Master,False,0,Castroview,Scientist,105.56748091297543,lipstick,beauty
+55,Male,62481.0560930693,Bachelor,True,0,East Cheryltown,Engineer,125.31211279321306,carpet,books home sports beauty
+47,Female,54617.16505498072,Bachelor,True,2,Gutierrezhaven,Scientist,89.951920035081,sofa,electronics home
+27,Male,37099.45796529422,Master,False,2,North Sarahfurt,Unemployed,92.07995013054364,bed,furniture home books
+23,Male,27255.22427884207,Bachelor,False,0,Rosstown,HR,87.54596414114687,shoes,clothing
+29,Male,37497.08913108383,PhD,True,1,Kevintown,Businessman,121.68576211939919,perfume,food electronics sports beauty
+64,Female,43153.74536900372,High School,True,2,Kirkland,Engineer,68.01760734554355,novel,home books
+56,Female,48781.528464273666,Bachelor,False,1,New Shannon,Artist,151.8331174270827,ball,sports
+44,Female,41975.936451256784,PhD,True,3,New Monica,Businessman,87.80797509352793,lipstick,beauty furniture clothing
+42,Male,79459.29441641271,PhD,False,0,Paulaport,Scientist,86.48541077979318,carpet,books electronics home
+18,Male,65484.87338061055,PhD,False,0,Jenkinsbury,Unemployed,98.09756885289526,monitor,electronics food home beauty
+25,Female,54406.43608364892,PhD,False,1,Martinside,Lawyer,131.41042141629902,gloves,furniture sports
+19,Female,44616.17208620877,Master,True,3,Lopezberg,Scientist,108.85549449683232,ball,clothing furniture home sports
+53,Male,59943.261732885236,Bachelor,False,3,Cooperborough,Unemployed,98.30498532510683,ball,food electronics sports
+23,Male,59998.0886891923,PhD,False,1,Jonathanfort,Artist,114.56314237063052,table,home furniture books
+49,Male,73435.71285825584,Master,False,0,West Karen,HR,96.82672999598591,gloves,sports clothing food beauty books
+44,Female,44628.65049265622,High School,False,3,East Nancyport,HR,98.24730083448657,ball,beauty sports
+60,Male,46053.554505933454,High School,False,1,Port Mandy,Scientist,108.66507513715142,novel,books clothing
+44,Male,29377.510934028174,PhD,True,0,Beckyshire,Artist,98.5033051891777,chips,electronics furniture food
+29,Male,53155.871713727414,PhD,False,2,Anthonystad,Engineer,107.14676374611969,chair,furniture
+42,Male,63306.3310611143,Master,True,1,South Timothyburgh,Engineer,120.39721764495744,pants,clothing electronics home
+42,Female,64326.699254352294,PhD,False,0,Langmouth,Retired,101.09953253801993,pants,food clothing home sports
+27,Female,38662.6866443259,PhD,False,1,Davishaven,Housewife,103.80088247882159,chips,home electronics furniture food
+26,Female,46177.65397451674,Master,True,3,Lake Stanleymouth,Doctor,75.58132115119471,shoes,sports clothing
+20,Female,33378.96137870083,Master,False,3,Lake Alex,Salesman,116.90600978948599,sofa,beauty home books
+19,Female,41158.47414537746,Master,True,0,West Elizabethfort,Housewife,106.84742615511514,dictionary,books electronics clothing
+23,Female,75351.09047498507,High School,False,2,Jonesberg,HR,107.192676290748,sofa,electronics furniture food home
+28,Male,42870.76139735205,PhD,False,1,Lake Brianfurt,Retired,118.90900479442354,chair,furniture
+50,Female,36672.667034362705,Bachelor,False,0,Amberstad,Salesman,71.45368892886184,gloves,clothing sports
+43,Female,68599.68204151689,Bachelor,False,0,Port James,Housewife,84.2584964439515,sofa,food electronics home
+41,Male,47855.583076147304,High School,True,3,New Laurabury,HR,121.6058372676422,novel,home food books
+46,Male,58626.35425436639,High School,True,3,Port Saraton,Businessman,66.30793789127974,gloves,sports electronics
+57,Male,40099.40885480659,Master,False,2,South Joshuatown,Engineer,53.987273214443974,lipstick,beauty electronics clothing home sports
+29,Female,46627.012565413635,Master,True,1,New Alexanderville,HR,58.50380833034641,table,books furniture
+24,Male,52214.95030762888,PhD,False,2,Davidmouth,Scientist,94.03749709038053,bed,electronics furniture sports books
+46,Male,64561.69296845061,Bachelor,True,1,Stevenland,Doctor,63.683386889749876,table,furniture electronics clothing
+51,Male,64518.31543913691,High School,False,3,South Jasmine,Doctor,102.27097808508695,shirt,clothing furniture beauty
+27,Male,49074.98338104717,PhD,True,1,North Thomasberg,Housewife,109.12910278774118,pants,food clothing
+63,Male,43694.93973412864,High School,True,1,Colleenview,Artist,66.40268275981555,shirt,home clothing food
+46,Female,40361.03094164095,PhD,False,3,New Travis,HR,105.21395688102126,gloves,sports furniture home
+29,Female,70840.38423279155,PhD,True,3,South Lawrence,Retired,98.89659432732164,bat,beauty sports
+42,Male,59323.918921236545,PhD,True,2,Grossport,Retired,116.70869717552347,cream,books beauty
+34,Female,60100.15759403577,Master,True,0,Hintonberg,HR,89.93901890765714,chair,electronics furniture clothing
+50,Female,56920.348699783666,Master,False,1,Julieshire,Salesman,112.24250559392006,table,furniture electronics beauty
+63,Male,23875.575384998854,Bachelor,False,1,Lake Troyside,Salesman,75.46803197347415,pants,clothing furniture sports books
+41,Female,59455.36155359269,High School,False,0,Marialand,Unemployed,99.10919669627958,chair,food electronics furniture home
+39,Female,59366.65105770923,Master,False,1,Scotthaven,HR,115.58562826660146,curtains,home electronics clothing
+39,Female,42429.5909429943,Master,False,0,Sheilamouth,Scientist,94.44197980152371,monitor,sports electronics furniture food home
+45,Female,37084.87882970108,Bachelor,True,0,Lunaland,Artist,74.88795088470798,cream,beauty
+57,Female,58207.341879407264,High School,False,0,South Cassandra,Unemployed,89.79662206860941,gloves,books home sports beauty
+51,Male,56250.86626063133,PhD,False,3,Lake Grantborough,Retired,115.76171168568031,novel,electronics home books
+49,Female,40363.22472921531,PhD,True,2,Lake Anthony,Lawyer,82.66281509748475,bed,furniture books
+53,Female,51908.81079844007,High School,True,0,Mackchester,Lawyer,73.8581150431277,chips,clothing food sports
+43,Female,51676.51397338779,PhD,True,0,Brownfurt,Unemployed,127.219436349479,maggi,food home
+61,Female,35488.90186785076,Bachelor,False,0,New Sharon,Salesman,105.85649446848254,curtains,home books
+36,Female,66272.6135124307,High School,True,1,Nicholston,Housewife,124.1346673249232,carpet,sports food home books
+50,Male,27382.280522981648,Bachelor,True,2,Ellenburgh,Scientist,92.25123632920176,cream,beauty food
+47,Male,48445.924041450955,High School,True,2,North Juliebury,Housewife,93.68461009066552,pants,books clothing sports
+64,Male,43868.0773596615,PhD,True,0,South Shannonshire,Scientist,127.22863616226691,mobile,electronics furniture
+62,Female,38887.50243501183,Bachelor,False,3,Lake Claudia,Doctor,106.50146194384045,pants,furniture clothing food home books
+54,Male,48598.334542957506,PhD,True,3,Port Jamesberg,Doctor,98.08359002763842,pants,clothing electronics
+28,Female,59841.91069128165,High School,False,1,Grantstad,Businessman,113.9218840925815,table,food furniture
+20,Male,42756.945935636795,Master,False,1,East Jenniferburgh,Doctor,120.94290973057274,shoes,home clothing food sports beauty
+24,Female,52719.47649792966,PhD,False,3,Reyeshaven,HR,108.5965038065558,perfume,sports furniture beauty
+38,Male,52413.93482621677,Master,True,2,Taylorhaven,Retired,88.55514094006273,mobile,beauty electronics home
+31,Female,46584.36740754714,Bachelor,True,0,Port Micheleview,Businessman,76.02822246993688,dictionary,books electronics clothing
+35,Male,39545.34876901725,High School,True,3,North Alexanderbury,Unemployed,58.98004369694739,carpet,electronics furniture home sports beauty books
+30,Female,33981.63064257614,High School,False,3,Sandovalstad,Businessman,83.34516030957022,cream,furniture beauty
+44,Male,51913.73605474725,High School,False,2,Lake Holly,Lawyer,111.2066443887632,shoes,clothing
+33,Male,49877.70465654058,PhD,False,2,Lake John,Businessman,76.9143815189693,table,food furniture home books
+33,Male,57014.84888440042,High School,True,2,West Lynnton,HR,100.8007701290314,pants,home furniture clothing food
+53,Male,36217.0587893863,High School,False,2,Ashleyhaven,Unemployed,112.72724167279472,shirt,sports electronics furniture clothing
+59,Male,49375.61197032057,Bachelor,False,2,Lake Daleside,Scientist,95.07095480978975,bat,beauty home sports
+24,Female,33681.01739311543,Bachelor,False,1,Murphyfort,Housewife,127.36582452891878,novel,books
+34,Male,65891.25973209055,Master,False,2,Port Keith,Housewife,91.80217116392328,monitor,electronics home
+52,Male,57725.23671477473,PhD,True,3,North Gregoryburgh,Businessman,96.1454977457338,chair,furniture home
+63,Male,48508.2319889308,Master,True,3,Haaston,Businessman,124.16092720704602,shoes,clothing
+30,Female,51197.834527553925,High School,False,2,Abigailshire,Businessman,85.36751377509418,chair,food furniture clothing beauty
+29,Male,77547.51387324672,High School,True,1,New Davidbury,Lawyer,121.26786234081226,lipstick,home clothing beauty
+26,Female,60726.71742577218,High School,True,3,West Eric,Scientist,109.8396816491038,gloves,sports
+64,Female,55027.421761032645,PhD,True,1,Port Cameronhaven,Housewife,107.79474489286943,sofa,beauty home
+57,Male,35107.68462704974,Bachelor,True,1,New Tiffany,Artist,97.50180594948739,maggi,books electronics clothing food
+40,Female,45066.5044884805,Master,False,0,New Taylor,Lawyer,116.78329271247185,monitor,electronics food
+39,Female,49085.69918031724,Master,True,1,Raymondtown,Unemployed,121.22945505453913,shoes,furniture electronics clothing home sports
+32,Female,36146.83670639826,PhD,False,2,Emmafurt,Unemployed,83.12030457860966,shirt,clothing beauty
+45,Male,56602.80893400951,Bachelor,True,1,Perezberg,Unemployed,78.52273163760745,curtains,food home books
+27,Female,68397.54698864091,PhD,False,0,West Micheleview,Lawyer,112.9638007008773,shoes,home clothing
+43,Female,33119.936096198006,PhD,True,2,East Ernesthaven,Lawyer,105.21835655510701,bat,sports furniture home
+40,Male,51449.97423768423,Bachelor,False,2,Port Donnaland,Salesman,116.0286044345949,lipstick,beauty food sports
+21,Male,62830.305497927926,PhD,True,3,Lake Joanneport,Artist,110.3581944530527,pants,books clothing
+23,Male,34254.05279002315,High School,True,2,Port Candacemouth,Salesman,130.64115207014385,mobile,electronics
+27,Female,63702.74349838551,Bachelor,False,0,Jeffreyshire,Engineer,119.10013203260043,shoes,furniture clothing home
+20,Female,53776.890073470466,PhD,True,3,Mccoyport,Artist,88.91429419371693,shoes,clothing
+59,Female,35396.79420292174,PhD,False,1,South Benjamin,Scientist,96.68617087427289,biscuits,food furniture
+18,Male,50555.00690918843,Bachelor,False,2,Davidton,Unemployed,100.16194345622178,table,home furniture clothing books
+43,Male,60714.310922134246,Bachelor,False,0,Lake Tracyside,Unemployed,82.93118324189238,biscuits,sports food
+53,Male,58979.33233486721,Bachelor,False,1,East William,Businessman,125.2601817968784,table,beauty furniture
+60,Female,59239.53794202423,Master,True,0,Fletcherstad,Engineer,99.08761132175826,shoes,books clothing
+44,Female,65932.61566790804,Master,True,2,Melissatown,Retired,113.2281811463642,shoes,electronics clothing beauty books
+54,Male,54102.22753942059,Master,False,0,Morseland,Lawyer,80.43196504374527,carpet,furniture electronics home sports
+33,Male,38869.70870576182,Bachelor,True,1,Gibsonfort,Unemployed,90.24910153166493,table,clothing furniture food
+24,Female,53418.61750317434,Bachelor,True,3,Pittmanfort,Salesman,108.92604908858333,biscuits,food furniture
+35,Male,46538.87463878977,Master,True,2,New Nicole,Lawyer,23.482178654808678,perfume,home sports beauty books
+26,Female,47481.54559063414,Bachelor,False,0,Abigailville,Doctor,83.18107139113769,maggi,sports food
+61,Female,51521.59125560802,High School,False,3,Holdenport,Salesman,88.5317052648853,lipstick,beauty furniture
+35,Male,45614.25216943895,Bachelor,True,0,Jameston,Scientist,78.71164352404385,gloves,books sports
+41,Male,57031.16321333612,PhD,False,1,East Troy,Lawyer,93.09414464623515,monitor,electronics books
+32,Female,44584.11446772123,Master,True,2,Jameston,Doctor,119.36373421043015,table,furniture sports
+55,Male,52499.67940979167,PhD,True,2,New Stacyport,Unemployed,123.30731706841647,mobile,clothing electronics
+34,Female,48360.45274053898,High School,False,2,West Richard,Engineer,75.7950285638356,maggi,food books
+46,Female,41199.72353531758,PhD,False,1,South Davidland,Salesman,67.29213657060845,carpet,home
+21,Female,44809.05022573047,High School,False,1,Samuelshire,Retired,94.48629031640314,gloves,sports books
+35,Male,45517.55198334695,High School,True,2,Allenside,Artist,110.90969372304818,perfume,beauty food
+44,Male,57831.43175671826,High School,False,3,Kellimouth,HR,89.72880978667123,perfume,books sports beauty
+49,Male,42753.940199312434,Bachelor,False,2,Margaretbury,Housewife,88.39402123482489,shoes,electronics furniture clothing
+32,Male,47893.126204116445,High School,True,0,New Christopherton,Artist,108.25888539358033,chair,furniture
+30,Male,29273.93397121176,High School,False,0,Thomasfort,Housewife,89.12027915438674,table,clothing furniture food beauty books
+35,Male,47390.230119006716,High School,False,1,Georgeton,Lawyer,80.40300464993274,ball,food electronics sports
+48,Male,33634.99655024438,High School,False,2,East Lesliemouth,Retired,126.41456145198627,pants,home clothing food
+62,Female,48488.95930163161,Master,True,1,Port Matthew,Salesman,112.83001920805256,gloves,sports furniture
+54,Male,63255.85939174057,Master,False,1,Lake Kathymouth,Salesman,91.1384744455676,shoes,beauty clothing food
+34,Female,53086.91859232807,High School,False,2,Aguilarmouth,Doctor,74.05089974569457,dictionary,books
+56,Female,35728.64358049464,Master,True,0,Port Tiffany,HR,96.86955079176659,mobile,electronics books
+39,Female,58249.94489204221,Bachelor,True,0,West Angela,Lawyer,116.63505401532471,bed,furniture clothing
+58,Female,53062.40245619837,High School,False,0,North Anthonyberg,Lawyer,73.69688942563435,shoes,clothing sports beauty books
+37,Male,46650.499542174424,PhD,False,2,Melaniebury,HR,133.04391530760842,chair,food furniture
+31,Female,60923.08337204218,Bachelor,False,1,Nelsonton,Unemployed,102.70001979740589,curtains,home electronics sports
+53,Male,38637.42929207304,High School,False,0,West Shawnfurt,Scientist,101.65350813846905,bat,sports food
+47,Male,52988.443689090294,Bachelor,False,3,Shellymouth,Unemployed,111.5715387283907,perfume,beauty sports
+56,Female,54051.97368604007,Master,True,1,Timothyhaven,Lawyer,118.24245359997045,bat,books electronics home sports
+46,Female,57992.49442266574,PhD,False,2,Michaelfort,HR,116.82083341203605,dictionary,electronics clothing books
+41,Male,54250.881063107576,Master,False,0,West Patriciachester,Artist,97.91563568775426,cream,furniture electronics beauty
+48,Female,41650.54510039622,PhD,False,0,Turnerbury,HR,113.03893889296543,pants,clothing food
+33,Female,56422.455507926206,Master,False,0,West Melissa,Artist,95.28561324396003,chips,food electronics clothing
+39,Female,36566.46557612868,PhD,True,1,Barbershire,Housewife,94.07067107699858,lipstick,home furniture sports beauty
+47,Female,48538.94615443873,High School,True,3,Savagefort,Retired,109.39807811147715,chair,sports electronics furniture clothing
+54,Male,52303.07723869363,Bachelor,False,1,Mclaughlintown,Unemployed,105.60740067635993,novel,beauty furniture clothing books
+29,Male,47337.440949809956,High School,True,2,Cristinaport,Artist,70.98480914570175,chips,books furniture food
+27,Female,37032.971292498165,PhD,False,1,Port Jennyland,HR,109.64007239240158,bat,electronics sports
+20,Female,47648.4107379928,Bachelor,False,3,Martinezchester,Businessman,113.77953494839176,shirt,furniture clothing sports beauty books
+64,Male,42640.782476570064,PhD,True,1,Smithfurt,Artist,123.29745653379453,shoes,clothing furniture sports
+41,Male,36821.03325713752,Master,False,3,West Teresa,Doctor,119.83469994873658,perfume,food clothing home beauty
+44,Female,35888.96151171611,PhD,False,1,Blakeshire,Engineer,105.33877405278056,maggi,home food
+45,Female,45783.47636662303,Master,False,3,Port Stephen,Doctor,99.61785541811406,shirt,sports furniture clothing food
+19,Male,36509.35770600978,Master,True,3,Rebekahside,Businessman,93.82924763384308,cream,beauty furniture clothing food books
+41,Male,56426.43011867058,Master,False,2,New Adrian,Salesman,131.0451871128722,dictionary,books
+22,Female,66830.16655755516,PhD,True,2,West William,Scientist,116.4827741315722,mobile,electronics sports books
+39,Female,46833.86716910568,Bachelor,True,3,Jasonton,Unemployed,96.50828191838451,maggi,furniture food
+42,Female,64690.87629865308,Master,False,3,Hernandezmouth,Retired,130.4284956648322,shoes,clothing electronics
+56,Female,44004.427144659785,Bachelor,True,2,Rollinsfurt,Lawyer,62.51597507240682,perfume,food sports beauty
+61,Female,46579.48989473206,PhD,True,1,North Jeanette,Artist,125.11346385915468,carpet,home beauty
+27,Female,26245.619106459442,High School,True,3,Port Jacquelineton,Salesman,71.93094852515895,gloves,sports clothing
+43,Male,29124.32852735492,Master,True,2,West Daniel,Salesman,70.18500655024778,perfume,beauty food home books
+37,Male,44886.230996883154,PhD,False,1,Port Jesusland,Unemployed,60.39720115302345,laptop,books electronics furniture home beauty
+53,Male,54557.10049011267,Master,False,3,Christopherborough,Lawyer,131.50609914585812,laptop,electronics furniture
+45,Female,41053.2845160507,Bachelor,True,1,New Scottville,HR,81.74568489644285,mobile,furniture electronics clothing home
+20,Female,72598.35597184114,High School,True,3,Milesshire,Retired,115.25233103201728,shirt,clothing
+40,Male,47145.00109266772,PhD,False,1,Elaineview,Unemployed,87.76564110803037,chips,food beauty
+55,Female,55071.6724697658,Master,False,1,New Thomas,Artist,124.69149888265056,curtains,home
+59,Male,41978.09075425507,High School,True,3,South James,Businessman,103.1111652805983,ball,sports
+36,Female,61879.6694018148,Master,False,1,West Michelleshire,Artist,112.46339882122746,carpet,beauty electronics food home
+41,Female,44560.76227688072,High School,False,2,West Ryanview,Doctor,62.16655771666649,biscuits,books furniture food beauty
+52,Female,63613.41389730793,PhD,False,0,Jeremyport,Salesman,73.92775359382246,laptop,electronics
+19,Female,52800.79900321993,Master,True,2,South Markfurt,Businessman,74.3576752887383,bed,furniture food beauty
+29,Female,38250.27020222521,PhD,False,0,West Chaseport,Scientist,103.03331380896893,laptop,clothing electronics
+42,Male,41194.191582965264,PhD,True,3,North Amandaton,Lawyer,95.6589265002918,curtains,food home
+30,Male,61057.66369388685,Master,True,2,Nicholasfurt,Businessman,77.28159275257957,maggi,home food
+50,Male,47681.15802984606,Bachelor,False,3,Mccallbury,Artist,111.61081741756098,cream,sports electronics food beauty books
+39,Female,45233.60461994349,High School,False,1,Hansenport,Retired,116.47261762275018,lipstick,beauty sports
+44,Male,60611.73358515707,PhD,True,3,Lake Connieport,Housewife,113.03921529844827,monitor,books electronics home sports beauty
+22,Male,40453.36992840582,High School,False,1,Port Emilyport,Artist,105.08583741744579,shoes,electronics clothing sports
+40,Female,62705.94170498924,PhD,False,1,South Gabriela,Scientist,88.3570070630924,dictionary,furniture books
+54,Female,49443.01839627725,PhD,False,1,East Patrickside,HR,90.27205811772575,bat,clothing electronics sports
+20,Female,50953.96654861433,High School,False,3,Loganhaven,Housewife,108.10829946614784,carpet,food home
+28,Female,50571.62612186552,Master,True,2,Robertbury,Scientist,103.5763577916829,bat,home sports
+57,Female,39046.7164379395,High School,True,1,Robersonmouth,HR,119.35176975773304,gloves,sports beauty
+32,Male,68796.6893854037,Bachelor,False,1,West Edgar,Businessman,130.2738166381532,lipstick,beauty
+47,Female,27916.38922238473,Bachelor,True,0,Johnberg,Lawyer,78.89490022885984,dictionary,books clothing home
+34,Male,39252.21736310488,Bachelor,False,1,Gibsonhaven,Engineer,95.4287600062728,mobile,electronics furniture home sports books
+37,Male,54879.34590182958,Master,False,0,Richardfort,Lawyer,109.77813520325746,table,furniture clothing food home beauty
+44,Female,49351.395472467535,Bachelor,True,0,South Shawn,HR,127.08201818563906,shoes,clothing beauty
+55,Male,21908.86775911469,Master,False,3,Ginaberg,HR,116.66591237408446,bed,food electronics furniture sports books
+21,Female,66994.2637507839,Bachelor,False,0,South Danielview,Scientist,87.0046718827789,sofa,home electronics beauty
+23,Male,48055.14246247523,High School,True,0,Brianstad,Scientist,108.64069428596868,ball,sports beauty
+24,Male,51232.01185548718,High School,False,3,South Heather,Unemployed,93.67305815197759,gloves,beauty sports
+46,Male,40719.24708514342,Master,True,3,East Zacharyfurt,Retired,109.00215464974815,novel,books food
+47,Male,43563.85934377434,PhD,False,3,North Jasontown,HR,81.86617697780821,maggi,electronics furniture food home sports books
+44,Male,42781.111885967,Master,True,2,Christopherbury,Artist,90.77696378797081,monitor,furniture electronics beauty books
+22,Female,57509.61438617323,PhD,False,1,East Susanville,Lawyer,104.05655679981518,table,clothing furniture beauty
+62,Male,43026.44816557667,PhD,False,3,Michaelhaven,Businessman,99.55564673828384,shirt,food clothing books
+54,Male,39974.989240399154,Master,True,1,Carolynfort,Artist,136.77205264742793,sofa,home food
+32,Male,70912.80523798552,High School,False,2,Jennaberg,Doctor,113.48583931040895,maggi,sports food
+28,Female,56613.14042908389,PhD,False,0,Davidfurt,Artist,98.93271600430484,mobile,beauty electronics
+26,Female,53746.93885546601,Master,False,3,Lorichester,Businessman,93.46822977176124,table,books furniture sports beauty
+39,Male,56555.458046402746,PhD,True,1,South Jason,HR,78.97722132884218,mobile,electronics furniture books
+41,Male,33475.08810078427,Master,False,3,Kellyburgh,Housewife,70.22472904538064,sofa,furniture home sports
+27,Male,49110.78875727596,High School,True,2,Phillipston,Salesman,121.06869467109777,pants,clothing electronics beauty
+22,Male,57405.95775859099,Master,False,2,New Oscar,Scientist,107.39742591174473,perfume,food beauty
+62,Female,58368.004901539716,High School,False,3,North Dustin,Doctor,79.11250599193681,curtains,home clothing sports
+55,Female,48795.60963522114,Master,False,2,Torreschester,Scientist,83.70797923132285,ball,sports furniture clothing food beauty
+43,Female,50788.83391934666,Bachelor,True,0,West Cole,Unemployed,79.12279139327808,perfume,beauty furniture books
+57,Male,53642.21130460265,Bachelor,True,2,West Nicholasville,Scientist,89.61891329064512,dictionary,books
+34,Male,41303.999602529504,Master,True,1,Harpertown,Unemployed,109.06321891314177,monitor,electronics books
+59,Female,36903.15285412055,Master,True,2,West Ryanborough,Engineer,106.07934075867897,maggi,furniture food
+63,Female,37861.43323636148,High School,True,1,Conleymouth,Scientist,119.23995405379839,gloves,clothing electronics sports
+20,Male,57448.017522812515,Master,True,1,Amandaland,Doctor,72.92766006409589,lipstick,food electronics clothing beauty
+62,Female,46256.74610823087,Bachelor,False,1,North Brian,Housewife,109.17615033248812,sofa,home sports
+36,Female,48255.139854459725,PhD,True,2,South Cynthialand,Doctor,93.7258186053573,ball,sports
+26,Female,42913.94573633365,Master,False,0,Tracifort,Businessman,101.57780415818424,cream,beauty home
+38,Male,36743.1312122322,PhD,False,1,East Timchester,Doctor,96.64352867146864,encyclopedia,books home
+33,Female,59276.64071846823,Bachelor,False,0,Patelville,Retired,93.97854221272269,lipstick,electronics beauty
+64,Female,53248.831384286605,Bachelor,True,3,Lake Bradleyburgh,Artist,98.37764243920367,carpet,furniture home beauty
+48,Male,39170.48803990317,High School,False,0,New Justinshire,Businessman,126.10951233542715,shirt,clothing home sports beauty books
+18,Female,58824.013543781315,PhD,True,0,Port Susantown,HR,92.00137533677916,biscuits,food furniture beauty
+59,Female,43545.97733473034,High School,False,1,South Kelly,Artist,92.14486488766987,carpet,home food
+21,Male,44251.887415391575,Master,True,0,North Mary,Scientist,140.77516732205515,gloves,sports
+54,Male,36266.02183560609,Bachelor,True,2,Griffinhaven,Housewife,82.05803437534581,biscuits,beauty furniture food
+40,Female,54143.32364861283,PhD,True,3,Maryport,Retired,115.49412380783534,maggi,books furniture clothing food
+18,Male,44604.8401678066,High School,False,3,South Alexis,Doctor,108.48634937923079,lipstick,electronics food sports beauty
+23,Female,28079.688466389358,High School,False,0,Santiagoport,Salesman,128.02082726269714,perfume,furniture food sports beauty
+37,Male,54685.005796549456,Master,False,1,East John,Unemployed,84.70651098282748,mobile,clothing electronics
+33,Male,38307.75524973478,Bachelor,True,3,Davidhaven,HR,98.95695948779586,chips,food home books
+62,Female,54196.97148605321,PhD,False,3,Brownhaven,Retired,90.61037680052362,sofa,home sports books
+51,Male,58535.69950373172,Master,True,3,Thompsonport,Businessman,108.7609283393455,monitor,sports electronics
+41,Male,66567.64549574167,High School,True,3,West Amyfort,Doctor,108.87026373484493,perfume,beauty electronics
+55,Female,55536.327624024576,PhD,False,2,New Stephen,Salesman,119.92662575576819,dictionary,books furniture
+21,Male,46798.14525197002,Master,False,1,East Johnmouth,Artist,106.23452906167968,laptop,electronics beauty
+40,Female,48932.785377122535,Master,False,1,Woodsmouth,Retired,104.25121054913527,lipstick,furniture sports beauty
+42,Female,48971.14270991375,High School,True,1,Christinashire,Scientist,139.12107018290007,table,clothing furniture
+30,Female,48530.66004964723,Master,False,3,Reyesside,Doctor,122.63425951152061,maggi,food clothing books
+51,Female,46159.35454786641,Master,False,0,Sanchezburgh,Artist,107.42382260357014,carpet,home sports beauty
+47,Female,43016.63255485853,High School,False,0,Austinside,Businessman,75.61913317135048,cream,sports electronics furniture food beauty
+26,Female,45732.05278833717,PhD,False,0,North Harryhaven,Housewife,138.39956164142174,lipstick,beauty electronics furniture sports
+57,Female,48126.5179817407,Bachelor,False,0,West Sean,Scientist,104.5500708714376,novel,books food
+21,Male,39625.00934458176,Master,False,1,South Patricia,Lawyer,128.181747420429,bat,electronics clothing sports
+18,Female,49562.14626378223,High School,False,0,Lake Brandonmouth,Doctor,137.46715690337015,table,furniture clothing
+27,Female,30102.29138905194,High School,False,3,East James,Businessman,140.17482691331958,maggi,clothing food
+23,Male,51517.670416047375,High School,False,0,South Samuel,Lawyer,118.90102433702559,shoes,food clothing
+59,Female,51481.458972886496,Bachelor,False,0,Michaelberg,Engineer,58.54558048407459,shoes,home clothing
+38,Male,43147.80277049182,PhD,True,3,East Lisa,Businessman,93.58074462439203,gloves,sports electronics food home books
+52,Female,58027.582938054424,Master,False,1,New Shannon,Housewife,92.4463079613362,cream,beauty food
+45,Female,48503.859236703094,PhD,True,3,Katherinechester,HR,136.79945635350592,encyclopedia,books electronics furniture beauty
+59,Male,42451.48244604557,Master,True,3,Lake Brandon,Engineer,112.5906023603631,biscuits,electronics clothing food sports
+60,Female,50431.636570588445,Bachelor,True,1,West Lauraport,Lawyer,79.22696871803446,table,furniture
+54,Female,53217.359196663565,High School,True,0,Port Reginald,Retired,98.19527564545031,shirt,clothing
+40,Male,51511.52902179815,PhD,True,0,Johnland,HR,141.56029256402297,shoes,food furniture clothing sports
+39,Female,46009.60860774928,High School,False,0,Georgemouth,Unemployed,92.91214653384199,encyclopedia,home food beauty books
+36,Male,60276.9066417438,Master,False,1,East Stephanie,Doctor,101.15587068448336,sofa,sports home beauty
+36,Female,42307.87715016747,PhD,True,1,Romeroburgh,HR,87.76531709466308,lipstick,beauty
+19,Male,43404.12310099796,Master,False,1,North Keith,Scientist,126.46304260933087,shoes,books electronics furniture clothing sports beauty
+30,Male,40618.085286739675,Master,False,0,New Wendy,Retired,117.48092779214439,monitor,electronics
+29,Female,35452.399524518936,Master,False,3,Lake Johnbury,Housewife,118.77061841275203,novel,furniture books
+42,Male,35369.92427364635,Master,True,0,North Jeffery,Salesman,64.95648257446953,pants,clothing
+25,Male,54395.75374909397,PhD,True,0,Schmidtville,Engineer,95.62623660676054,biscuits,food clothing books
+36,Female,25732.93326186289,PhD,True,1,East Kimberly,Unemployed,100.39740339372189,carpet,home
+18,Male,44180.99517084494,Bachelor,False,2,South Jamesfurt,Lawyer,107.31560656368538,ball,sports
+39,Male,42688.76158577064,PhD,True,3,New Kathryn,Scientist,85.21486076411912,mobile,beauty electronics furniture
+42,Male,44918.975912653106,PhD,True,0,North Sarahchester,Salesman,101.35327020601873,ball,books clothing sports
+48,Male,37569.84645945821,Bachelor,False,3,Michaelborough,HR,96.00961340741297,laptop,electronics
+50,Male,67793.79889002843,Bachelor,False,1,North Lacey,Engineer,90.1789250437175,pants,furniture clothing home beauty books
+20,Female,41701.21488145471,High School,True,0,South Sandrashire,Scientist,32.59863747510559,ball,clothing furniture food sports books
+34,Male,41043.60032190227,PhD,False,0,Lake Matthewton,Salesman,103.55780464628235,chips,food sports books
+19,Female,49492.50628737649,PhD,True,2,South Gregory,Engineer,87.33877806859425,ball,home sports
+64,Female,44473.184479532174,PhD,False,1,New Isaac,Retired,102.94011490995977,bat,sports electronics clothing home
+30,Male,36201.17655085632,PhD,False,3,Port Anthony,Housewife,115.09213751553376,perfume,beauty furniture food books
+51,Male,64630.858042987355,Bachelor,True,0,West Faithchester,Salesman,63.252719527254904,encyclopedia,books home
+47,Female,38599.91802295739,High School,False,2,East Stevenborough,Scientist,107.3249933277881,cream,electronics beauty
+47,Male,51513.46273932121,Master,True,1,Gallagherchester,Salesman,94.415102362571,dictionary,furniture books
+43,Male,37457.26570987367,Master,False,0,North Jim,Housewife,95.23331304599081,shirt,clothing electronics beauty
+53,Male,31774.68642381971,High School,True,0,Brandonberg,Salesman,96.35677989063757,mobile,food electronics sports
+57,Female,48111.0958760387,Master,False,0,South Christopher,Salesman,122.02190302014816,laptop,home electronics sports beauty
+54,Male,51855.85639999219,High School,True,1,Bellbury,HR,107.30680652285659,novel,sports books
+64,Male,39448.29686399899,High School,True,2,New Andrewbury,Retired,140.43472436531403,perfume,beauty sports
+45,Male,45081.25641499564,PhD,False,3,Williamsstad,Unemployed,110.63340523083338,chair,books furniture home sports
+50,Female,55747.91481621604,Bachelor,True,2,Pricefurt,Unemployed,51.17619569403362,carpet,electronics food home
+31,Male,44256.86728556887,High School,False,2,Lake Yvonneville,Doctor,121.961877229198,bed,furniture clothing home
+64,Female,43664.81794208611,Master,False,1,Danielsmouth,Unemployed,83.70978592617621,pants,clothing sports
+59,Male,54596.59270348579,Bachelor,False,2,Port Andrewview,Scientist,88.82097880300601,biscuits,food
+62,Male,39319.64129813288,Bachelor,False,2,Port Timothy,Businessman,101.39726200773819,carpet,home clothing food
+44,Female,58172.9357191385,High School,False,2,Kristyside,HR,122.06244802663491,bat,sports home
+50,Female,41866.41092965801,PhD,True,3,Carrollhaven,Retired,106.44160579370511,lipstick,beauty clothing books
+49,Male,41533.24646238379,PhD,False,2,East Jason,Doctor,131.56916170413706,dictionary,books furniture food beauty
+54,Male,63996.64521884777,PhD,True,1,West Kelli,Scientist,93.60089616364235,laptop,electronics
+63,Male,39898.9370752362,Bachelor,False,3,New Melissa,Engineer,83.17114954947284,chips,furniture food
+42,Female,49544.57940942624,PhD,False,0,West Michael,Engineer,106.90665584067804,encyclopedia,clothing books
+37,Female,59959.13549249886,High School,False,3,New Michael,Businessman,97.77326114639038,laptop,food electronics home books
+36,Male,36126.30251546125,PhD,False,0,Collinshaven,Retired,107.84913482860887,carpet,home clothing books
+20,Female,37704.61427797217,Bachelor,False,2,Port Christopher,Housewife,131.82865534327112,gloves,sports books
+28,Female,54173.16921360469,High School,False,3,South Adam,Scientist,87.70039628074068,ball,beauty food home sports
+39,Female,54348.243277081885,Master,False,3,Port Melissafort,Scientist,85.47040766666882,sofa,books furniture home beauty
+63,Male,38621.380125068004,Master,True,3,Julietown,Scientist,129.63321955762612,chair,electronics furniture clothing home beauty
+46,Female,52573.10913372076,Master,True,1,Morganhaven,Housewife,127.45646991260233,mobile,furniture electronics home
+33,Female,65859.66325900675,High School,False,0,East Kaylaside,Lawyer,81.522237096929,cream,clothing sports beauty
+21,Female,40198.230000030904,PhD,True,3,North Nathaniel,Unemployed,72.45940170481575,maggi,food furniture clothing beauty
+58,Male,43436.24735404185,High School,False,0,Gonzalezland,Lawyer,87.25333909066023,encyclopedia,home electronics furniture clothing food books
+54,Male,54820.2250095092,PhD,False,3,Carrillohaven,Unemployed,68.85861842416028,chips,sports food books
+19,Male,62623.58438438694,High School,False,0,Kellyfurt,Lawyer,76.78473670246689,mobile,beauty electronics food home books
+55,Female,68130.3960212328,PhD,True,1,Heathermouth,Lawyer,111.14885090205078,perfume,books beauty
+25,Female,50313.042240296694,Bachelor,False,1,Joneschester,Doctor,101.26668766649894,cream,electronics food home beauty
+22,Female,51130.04995476541,Master,True,2,Donnaton,Lawyer,92.28107183875593,bat,furniture sports
+64,Male,46850.7423720036,High School,False,3,West Stevenland,Unemployed,117.51005117089196,cream,clothing beauty
+41,Female,69356.30214837905,PhD,False,1,East Natasha,HR,89.65203261808335,biscuits,food
+38,Female,39621.08454607538,Master,True,1,Loristad,Engineer,122.29787123020739,lipstick,home clothing food sports beauty books
+39,Female,54077.54536695364,PhD,True,1,East Kathleen,Retired,52.12963823138079,bat,sports furniture
+44,Male,41628.6901294215,High School,True,3,West Jillbury,Housewife,73.14776668109204,biscuits,beauty food
+56,Female,42624.62970404473,PhD,False,3,East Stephaniestad,Salesman,142.242401702473,monitor,books electronics furniture clothing
+43,Female,52119.43696314997,High School,True,3,Normanstad,Housewife,89.27063453057382,bat,electronics clothing food sports
+55,Male,39993.44699372318,High School,False,0,South Jessicaland,HR,57.72314740070386,dictionary,furniture home beauty books
+18,Male,55842.25797196322,Bachelor,False,1,Lake Jenniferland,Engineer,147.4752246508013,shirt,clothing
+47,Female,41024.50718541036,PhD,False,1,Sandraton,Unemployed,130.4396846283013,chips,food furniture
+39,Female,46118.33424159688,Master,False,2,South Megan,Artist,123.14286649027011,monitor,home electronics
+39,Female,42739.57779113058,Bachelor,True,2,Port Anthonyland,HR,136.31054580339958,ball,sports electronics home
+27,Female,53439.19420993182,High School,True,2,East John,Doctor,58.55858731720378,ball,beauty clothing sports books
+42,Female,45059.87418984674,Master,False,1,East Dustinton,Scientist,110.75916073171959,chair,books furniture sports
+19,Male,64707.86672289501,High School,False,1,North Jessicashire,Salesman,114.74054687409867,mobile,electronics
+32,Male,42239.755737064435,PhD,False,1,Port Jeffrey,Unemployed,95.35556605005617,chips,furniture food
+28,Male,31265.7310252519,Master,True,1,South Wanda,Retired,83.57150087046695,novel,clothing books
+25,Female,70765.9706801874,Bachelor,False,1,Jacksonstad,Businessman,128.80677958268004,encyclopedia,food furniture home sports books
+43,Female,54767.89534673335,PhD,True,3,Heathertown,Salesman,113.59226180495415,curtains,home furniture food
+32,Male,58774.563483776874,Master,False,1,Rogermouth,Lawyer,135.58967402210425,shirt,sports furniture clothing
+42,Male,45435.72324111712,PhD,False,0,Zavalaburgh,Scientist,122.07187154606811,shirt,beauty clothing sports books
+40,Male,63053.33967902994,PhD,True,1,Melodyview,Engineer,145.0518215289813,monitor,books electronics furniture food
+20,Female,43554.916436835265,Master,False,2,West Robert,Businessman,98.4324540274536,gloves,electronics sports
+50,Female,72252.12524537688,Bachelor,True,0,Port David,Scientist,94.66339687854514,table,furniture food books
+27,Male,45901.19836753368,PhD,False,0,Thorntonstad,Artist,101.08032187228154,dictionary,clothing furniture food sports books
+50,Female,69977.81644336769,Bachelor,False,1,New Brookeview,Salesman,129.02103500547474,chips,food sports
+56,Male,53997.86004204923,Bachelor,False,1,North Toddbury,Salesman,92.98882138621777,gloves,home electronics sports beauty books
+24,Female,42600.03416066755,Bachelor,True,2,Kennethside,HR,116.89820507063615,bat,sports home
+28,Male,40336.54785963935,High School,False,3,West Tinaberg,Businessman,142.69850153000291,laptop,beauty electronics clothing
+50,Female,42922.02819485006,PhD,True,3,Jonathanton,Lawyer,129.1820648684499,shoes,books clothing home sports beauty
+52,Male,56600.80983034058,High School,False,2,Maryshire,Scientist,98.5493588875961,sofa,electronics home
+57,Male,62680.50703923192,Bachelor,True,3,North Stevenborough,Scientist,83.67345316124096,dictionary,furniture books
+48,Female,37480.687573405085,PhD,False,0,Port Jenny,Lawyer,109.82605797669353,shirt,clothing furniture
+45,Female,51594.280917488824,High School,True,2,Philipside,Businessman,92.29927941046601,biscuits,food electronics books
+44,Female,53658.247444632754,Bachelor,True,3,Nicholsview,Businessman,57.31493389672277,bat,home sports
+41,Male,59097.76813139909,Master,False,2,Port Meghanborough,Scientist,99.64101204049949,perfume,sports beauty
+33,Female,34166.66221888852,PhD,True,2,Coryside,Retired,92.0898649486533,bat,beauty electronics sports books
+25,Female,38369.13018796884,High School,True,3,Adammouth,Artist,86.0397948114714,cream,books food beauty
+52,Female,57172.89271337055,PhD,False,1,Jessicabury,Retired,101.8661417803777,monitor,electronics sports books
+26,Male,41479.11913564737,High School,True,2,East Cassandra,Businessman,80.84234583591468,table,furniture beauty
+19,Male,61938.57760508882,PhD,True,2,West Autumn,Artist,102.10377551812678,pants,clothing home beauty
+24,Male,31592.184551346138,Bachelor,True,0,Robertbury,Businessman,116.38646914441021,encyclopedia,food beauty books
+62,Male,42148.378497832105,PhD,False,2,Lake Jennifer,Housewife,95.50180036924472,lipstick,home furniture beauty
+18,Male,56673.92556127681,Bachelor,False,3,Norrisville,Engineer,100.43288274921923,ball,sports home
+25,Male,47663.5007244916,PhD,True,2,New Laurenton,Doctor,107.25039021816814,perfume,beauty home
+62,Male,42441.18045882294,PhD,False,2,West Nicole,HR,103.92482127694844,perfume,books electronics food home sports beauty
+36,Male,43753.58029607622,PhD,False,0,Mckinneyshire,Salesman,88.58641988775318,pants,electronics clothing
+18,Female,51275.88247222328,High School,False,1,Whitneyland,Businessman,108.55934128164851,bed,furniture beauty books
+58,Male,36338.8919199649,High School,True,1,South Nancyberg,Scientist,103.33245745652005,cream,clothing electronics furniture beauty
+60,Female,53334.381903126996,Master,False,1,North Amandaburgh,Businessman,104.50606790063979,chips,food
+26,Female,59367.31594289616,PhD,True,0,Ramirezberg,Doctor,95.92974593446772,table,home furniture
+30,Female,55926.3911829915,PhD,False,1,Port Joycefort,Doctor,110.1486998043278,bat,sports electronics furniture food
+57,Male,49855.12653030424,Master,False,2,North Sabrina,Artist,97.23896743902911,lipstick,beauty
+41,Male,50991.968733893606,PhD,True,0,Vancebury,Retired,123.47297775433327,bat,books sports
+46,Female,35733.10438866458,Master,True,3,Lake Zachary,Housewife,119.11604104597411,perfume,electronics clothing home beauty
+51,Male,50365.880216980695,PhD,True,2,Randymouth,Artist,106.74118274564817,carpet,furniture electronics home
+43,Male,52519.81959585786,High School,False,3,Travisport,Engineer,78.04431457842797,pants,clothing electronics books
+31,Male,58000.07048438994,High School,True,2,Blackburgh,HR,95.41233145862921,dictionary,food home books
+25,Male,56379.812280861355,Master,False,1,Rhodesport,Lawyer,86.50007569668674,curtains,home clothing beauty
+48,Male,46080.0927977034,PhD,False,0,Lawrencefurt,Salesman,133.42213319299566,bat,sports food beauty books
+38,Male,52178.46936451718,PhD,False,3,Andrewshire,Scientist,78.51818858079156,cream,beauty
+23,Female,59009.08068844247,High School,True,3,Port Meghan,Housewife,123.55434618075299,dictionary,books
+25,Male,43995.923927026335,PhD,False,3,Lake Victoriaside,Businessman,99.97750829971386,biscuits,electronics food
+41,Female,56348.811503406876,Master,False,0,Michaelmouth,HR,131.97611508038221,chair,furniture clothing sports
+61,Female,66244.9208679058,High School,True,0,Lake Christina,Lawyer,137.17190107680292,biscuits,clothing food
+52,Male,57080.840883000645,PhD,True,3,New Dianeside,Engineer,133.57307585286526,monitor,food electronics
+23,Male,44796.02010342669,Bachelor,True,1,Davidfurt,Engineer,92.66737215644744,carpet,home electronics clothing sports
+63,Male,61627.626815938456,Bachelor,False,2,Lake Gwendolynfort,Doctor,111.50912350234162,mobile,sports electronics
+38,Female,61797.612508430975,Bachelor,False,3,New Meganshire,Unemployed,98.71405173362783,lipstick,beauty furniture sports
+21,Male,55273.84197969758,Master,False,1,Justinview,Unemployed,86.55418597397639,laptop,books electronics clothing
+29,Female,41383.08555378413,High School,True,0,North Johnville,Unemployed,78.09774106513444,mobile,electronics
+38,Male,58763.49468346267,Bachelor,False,3,East Gabriellechester,Scientist,134.78481905334706,chips,furniture food
+59,Female,51823.62326457196,Master,False,3,Nguyenburgh,Businessman,69.50364265097001,shoes,clothing sports books
+44,Female,48130.68249242901,Master,True,3,Lewisfurt,Artist,97.77074891319673,chips,food beauty
+61,Male,33893.6992122953,Bachelor,False,2,North Stacystad,Engineer,82.22294440710995,shirt,home clothing
+49,Female,44052.15584742066,Bachelor,True,1,New Margaretport,Salesman,101.4260341783481,gloves,sports electronics
+36,Female,55166.03131292684,PhD,False,2,West Charles,Engineer,83.44908384016813,perfume,beauty
+60,Female,69742.6910559033,High School,True,2,East Victoriaborough,Businessman,78.08535052236806,dictionary,books
+37,Female,49650.55737522971,Master,True,0,Ashleyton,Scientist,137.6394207640814,mobile,electronics home books
+54,Male,31173.21136669649,Master,True,1,New Patrick,Scientist,103.53795792992133,curtains,furniture home books
+63,Female,31042.39118697902,Bachelor,False,2,Huynhside,Salesman,89.70933109877258,pants,clothing furniture food
+63,Female,54080.4709613782,PhD,True,1,Robertsfort,Engineer,98.17388890352292,ball,food sports beauty
+32,Female,35060.1270779066,Master,True,0,Lake Nicholasfurt,Housewife,124.38087888274316,carpet,home
+57,Male,42166.329456562395,High School,True,3,Victoriamouth,Retired,126.92723982373242,bat,sports furniture
+50,Female,34823.7465037603,High School,False,0,Westville,Artist,106.00381094738314,gloves,beauty furniture sports
+33,Male,56808.017607190865,High School,False,3,Wagnerburgh,Salesman,44.942750341728626,maggi,books clothing food home sports
+31,Male,53716.59909110713,Bachelor,False,2,South Carla,Unemployed,128.35333741822924,bat,electronics food home sports books
+64,Male,42643.214144238525,Bachelor,True,0,Janeville,Doctor,112.18219065103268,table,furniture electronics
+52,Female,62821.80753785544,Master,True,1,East Courtney,Unemployed,111.25339450199343,dictionary,clothing food books
+37,Female,37960.09371456844,Bachelor,False,2,East Davidhaven,Engineer,132.1012119953834,pants,food clothing
+60,Male,56112.790754053814,Master,False,3,Daniellefurt,Retired,90.84645911746654,carpet,home electronics furniture
+43,Female,39153.84700867308,Master,True,1,Masonview,Unemployed,90.7862297695808,encyclopedia,sports clothing home books
+58,Female,44391.9469405877,High School,False,3,Lake Kennethbury,HR,118.32495928010607,lipstick,beauty clothing
+20,Male,36895.18241079519,PhD,True,2,Matthewsland,Engineer,101.3798577806609,novel,books sports beauty
+34,Male,49048.42291600128,Master,False,2,Avilamouth,Businessman,102.66888715822223,gloves,electronics sports
+35,Female,54094.51740826892,PhD,True,2,East Justinchester,Doctor,97.58731539519943,carpet,furniture food home sports
+46,Male,50470.30420624865,High School,True,2,Moyerhaven,Salesman,58.35013363638772,mobile,clothing electronics furniture home
+43,Male,50321.863233011594,High School,True,3,West Chadport,Artist,100.93955564212098,ball,food furniture clothing home sports
+20,Male,50579.51559314082,Bachelor,True,2,Robinburgh,Engineer,121.05916232465019,chips,home clothing food beauty
+35,Male,47558.42065773348,PhD,True,0,Port Emma,Housewife,51.330339294981904,cream,sports beauty
+49,Female,71809.54009964826,Bachelor,False,0,Wrightport,Housewife,102.24101589097461,perfume,beauty
+58,Female,40024.53165377961,PhD,False,1,Kristenstad,Artist,122.53313643585479,biscuits,books electronics food
+40,Male,43028.86055029185,PhD,True,2,Gabriellestad,Housewife,84.0056653687376,monitor,electronics
+63,Male,39981.64967497994,Master,False,1,Port Robert,Artist,104.98233998741779,encyclopedia,furniture books
+41,Male,39028.101922756076,Master,True,2,Austinstad,Lawyer,83.33552044538824,pants,clothing home beauty
+54,Male,41437.91453755727,Master,True,1,North Anthonymouth,Artist,114.71171961676458,novel,food electronics beauty books
+39,Female,47170.29784284145,Master,True,0,Zamorashire,Businessman,107.86210768031034,novel,home beauty books
+60,Male,62051.13849596851,High School,True,0,East Jacob,Artist,109.33872291903195,chair,sports furniture home books
+63,Female,65057.54367221714,PhD,True,2,North Abigail,HR,106.26057911082242,maggi,beauty food
+36,Male,41945.75091165386,PhD,False,3,Port Steven,Retired,111.45106633335475,novel,books electronics beauty
+25,Female,57072.72463105816,Bachelor,True,1,Davishaven,Unemployed,109.07775265188953,laptop,electronics
+60,Male,57543.06168160975,High School,False,2,Emilyfort,Lawyer,95.89818752283104,chair,furniture
+42,Male,61325.99300953428,Bachelor,True,1,Boylefurt,Scientist,81.12592005376212,novel,clothing electronics home books
+52,Male,37858.32133864986,High School,True,1,Smithton,Scientist,98.09262164472858,biscuits,food home beauty books
+62,Female,59502.639750883995,PhD,False,3,Samuelborough,Lawyer,133.13926898486153,carpet,home beauty
+28,Female,45451.9790180491,PhD,True,2,Christianport,Engineer,101.14251244407056,bat,sports clothing food
+45,Male,63570.311106509354,PhD,True,1,Richardburgh,Salesman,108.43318198217854,pants,beauty clothing food home books
+57,Male,47598.306278795,Bachelor,True,0,New Paul,Scientist,75.77433380593021,shirt,books clothing
+46,Male,56644.23940657715,High School,False,2,Shelleychester,Unemployed,131.824497360117,monitor,electronics
+58,Male,47669.90660459781,PhD,True,2,Port Edwardborough,HR,121.5292959285435,table,furniture electronics sports
+48,Male,39625.287600056385,Master,True,0,Christiebury,HR,124.22666634613472,pants,clothing electronics
+35,Female,45785.428717108916,Bachelor,True,3,Josephmouth,Artist,131.3425339467579,cream,food electronics furniture home beauty books
+20,Male,52420.80193647897,Bachelor,True,2,Jacksonville,Housewife,64.51007010349468,gloves,home electronics furniture clothing sports
+25,Female,45377.77628275466,High School,True,3,New Thomasshire,Engineer,116.99502692789021,gloves,sports
+24,Female,48669.49430363346,Bachelor,False,1,New Ronald,Housewife,79.7804324417843,maggi,beauty food
+25,Female,47179.25547654286,PhD,True,3,New Caroline,Salesman,82.1067898696067,novel,books electronics home beauty
+47,Male,50757.422406866004,Bachelor,False,1,Schmidthaven,HR,110.31714703901568,table,electronics furniture
+19,Male,53639.5317637537,Master,False,1,Wardton,Engineer,105.48323331535416,ball,furniture sports beauty
+37,Male,56829.67725427206,PhD,False,0,Underwoodtown,Scientist,85.34252915471475,encyclopedia,clothing home sports books
+48,Female,52881.65020956419,Master,True,3,North Sarahbury,Businessman,112.37101376340068,laptop,food electronics clothing home sports beauty
+43,Male,54902.04151431771,Master,False,1,Russellside,HR,100.65617078041458,curtains,home
+50,Female,33982.13863211003,Master,False,1,Jasminefort,Unemployed,100.03365591500783,bat,sports
+43,Male,36228.660799090176,High School,False,2,Audreyborough,Engineer,111.03361468788754,cream,beauty sports
+57,Female,23854.38513717521,Bachelor,True,2,New Kylefurt,Retired,89.85483711179647,novel,books food beauty
+40,Female,55313.40933070431,Master,False,0,Joelland,Scientist,107.53115582059642,curtains,electronics home
+46,Male,42396.55075339965,PhD,False,3,Jeffreyland,Engineer,91.4735851263609,laptop,furniture electronics sports beauty
+27,Female,43121.12616206536,Master,False,1,Angelaborough,Retired,74.39776994111233,pants,clothing food beauty
+25,Male,54552.90411667645,Bachelor,True,1,Nicholashaven,Unemployed,77.37484258965469,encyclopedia,food home books
+58,Male,54335.65941125504,PhD,True,2,Larryfort,Artist,96.7514183316859,monitor,home electronics
+24,Female,64803.91077930596,High School,True,1,Lauramouth,Salesman,112.3916469859016,ball,sports
+44,Female,57664.07992353078,Bachelor,False,2,East Justinmouth,Retired,122.47444541973951,novel,beauty clothing food books
+64,Female,45069.39835922239,Bachelor,True,3,North Lawrencestad,HR,78.07765345395606,mobile,books electronics
+24,Female,51297.08768220882,Master,True,1,Taylorfort,Salesman,106.69725069497765,monitor,electronics clothing sports
+30,Female,52131.36714491339,PhD,True,1,South Cynthia,Doctor,106.64498578193067,maggi,furniture food
+51,Male,46980.85343488696,High School,True,1,Port Ryanhaven,HR,106.80589915319203,shirt,clothing
+29,Female,37361.71444098623,PhD,True,3,Mcclainchester,Scientist,120.21079068822448,carpet,food home
+32,Female,62392.97835044229,PhD,True,1,North Melinda,Housewife,105.23227317510253,carpet,home
+59,Female,52944.262890187696,High School,False,0,Brettstad,Salesman,118.32812683420237,laptop,sports electronics clothing books
+54,Female,55849.005545001295,Bachelor,False,0,North Christina,Engineer,121.75618135907581,novel,beauty books
+62,Female,60938.68878693918,PhD,True,2,Deleonfurt,Businessman,99.73124524663955,monitor,books electronics furniture clothing
+31,Female,47854.18997174323,High School,False,0,Lake Ashley,Engineer,120.3192819118547,cream,electronics beauty
+56,Female,34531.33722488702,PhD,False,3,South Shane,Lawyer,107.69360541510926,chair,furniture
+23,Male,44259.56988811307,Bachelor,True,3,Bethburgh,Housewife,110.90643256571019,sofa,clothing home
+63,Male,44691.10221795777,Bachelor,False,3,Perezmouth,HR,107.18881443834607,ball,food sports
+35,Female,58092.15165204458,High School,True,2,Lake Susanshire,Engineer,61.867247911623934,curtains,home
+21,Male,60175.73156172877,PhD,False,3,Michellebury,Scientist,126.25106039870037,chair,sports electronics furniture clothing
+30,Female,49078.14717362518,PhD,True,2,New Jennifer,Lawyer,101.62152159431896,carpet,beauty home books
+22,Female,68426.11775603864,Bachelor,False,3,Buchananmouth,Lawyer,132.01310004217135,dictionary,books furniture clothing food
+56,Male,51206.45732055271,Bachelor,False,2,Kevinbury,Salesman,111.50309215541219,perfume,electronics furniture beauty books
+63,Female,38979.28603926908,High School,False,3,Samanthaview,Lawyer,116.06769437443303,lipstick,furniture home sports beauty
+21,Male,34538.808187839044,High School,False,1,Loganfort,HR,83.12744876587871,shoes,clothing home
+55,Male,46948.289735612765,Bachelor,True,0,Robertstad,Doctor,79.01924224141226,cream,food electronics beauty
+50,Female,53073.87686830314,Bachelor,True,3,Priceland,Housewife,79.68101572406297,carpet,home
+27,Female,47421.56230052875,Bachelor,True,3,East Chad,Lawyer,105.39355919621829,table,sports furniture
+22,Male,49441.02540676641,Master,False,0,South Shawnberg,Lawyer,124.51563837634953,table,beauty furniture
+53,Female,27143.854626541364,High School,True,2,Robertsfort,Artist,144.55678076749234,pants,books furniture clothing
+63,Male,51076.84750551997,Bachelor,False,3,Greenport,Doctor,105.74895002882637,encyclopedia,electronics clothing sports books
+57,Male,58880.57112844298,Master,True,0,Robinsonborough,Lawyer,112.24461030893421,bed,furniture clothing food sports
+47,Female,43525.30175481249,Master,True,1,Allenton,Retired,101.52176045314056,bed,clothing furniture home
+32,Female,46107.188974421435,Bachelor,False,2,Bryantton,Lawyer,110.07765566412615,curtains,food electronics home sports
+22,Male,46922.803252336336,Bachelor,True,1,Lloydstad,Lawyer,106.95289929689442,monitor,home electronics clothing beauty
+28,Male,51696.36026448404,Master,False,2,Lake Peterland,Unemployed,127.72840320955746,gloves,sports
+52,Male,52384.52572516087,Master,True,1,North Brian,Lawyer,103.49396717603574,gloves,beauty sports books
+37,Female,41379.74786665558,PhD,True,3,Maryville,Engineer,107.94040702936563,encyclopedia,books beauty
+56,Female,26289.80904222418,Bachelor,False,0,South Ericport,Doctor,113.43179845783384,perfume,electronics furniture beauty books
+21,Female,68900.97185366144,Bachelor,False,3,North Charles,Scientist,92.2157723812085,bed,furniture electronics clothing sports
+61,Female,61975.15175238676,Bachelor,True,0,Port Andrew,Unemployed,108.31165309797898,bed,clothing furniture food
+63,Male,43061.0038326574,PhD,False,1,South Tina,Salesman,117.049253575239,carpet,food clothing home beauty
+43,Female,52210.70108285669,High School,False,3,New Douglas,Unemployed,47.73253452676286,biscuits,home electronics food sports
+62,Female,51038.96626677266,High School,True,0,Lake Rebeccaberg,Housewife,110.97541356400242,carpet,sports home books
+54,Male,48044.682032156365,High School,True,1,West Diane,Artist,104.92145835109758,lipstick,beauty
+32,Male,67547.27919356116,Master,True,0,South Zachary,Salesman,57.386406075474355,cream,books beauty
+21,Female,63138.211285004785,Master,True,3,Jeffreyville,Unemployed,77.28699097799532,bat,electronics home sports books
+59,Female,48842.6034380062,Bachelor,True,3,Morrisport,Lawyer,85.88638996820406,shoes,furniture electronics clothing
+33,Male,47924.01620818699,Master,False,0,Jenningsfurt,Unemployed,87.48807884367056,shoes,clothing
+21,Female,27398.9981144425,Master,True,1,Rosefurt,HR,101.39504891314589,dictionary,food books
+30,Female,60348.00299502818,Bachelor,True,1,Caitlinfurt,Doctor,107.90550953037135,chair,home electronics furniture beauty books
+46,Male,68026.20892514914,Master,False,1,South Travisborough,Retired,95.30641945076464,gloves,sports
+60,Female,50355.45048301573,PhD,True,2,South Davidland,HR,80.53795275439836,maggi,beauty clothing food
+53,Male,51878.592066901314,Bachelor,False,1,Johnsontown,Artist,102.76006274538867,novel,books furniture food sports
+52,Female,42923.50008987043,PhD,False,1,Port Stevenmouth,Retired,97.11804152758342,monitor,electronics sports
+35,Female,25532.630225369154,PhD,True,2,South Vincent,Doctor,140.89497689534107,gloves,furniture food home sports
+61,Male,52071.45883876831,PhD,False,0,Crossburgh,Doctor,89.59455830889652,perfume,clothing electronics beauty
+50,Female,36119.22414017058,Master,True,0,Kleinland,Doctor,105.75060810208139,perfume,food sports beauty
+37,Male,41201.77474692266,Master,False,3,New Alexander,Artist,68.25885394360682,laptop,home electronics
+32,Male,48668.72733203171,Bachelor,True,1,Scottton,HR,134.8095836718268,chair,sports furniture home
+52,Female,69077.33065197415,Bachelor,False,0,West Randyville,Scientist,150.1002155978785,cream,beauty
+34,Male,44289.75198740905,Master,True,0,New Joshuaport,Housewife,47.513300922927414,biscuits,books electronics food home sports
+52,Female,61500.82638340999,PhD,False,3,Fordburgh,Scientist,154.72151779755467,monitor,electronics food sports
+20,Female,52855.50529318164,High School,True,3,Schmitthaven,Scientist,94.99148929377586,bed,furniture books
+35,Male,39432.81023455739,Master,True,0,East Brandonville,Businessman,65.41894462428998,shirt,clothing furniture
+48,Female,38521.30859454559,PhD,True,2,Martinezborough,Salesman,88.5383185807902,pants,food electronics clothing
+32,Male,49215.27702162126,High School,False,2,Mendezfort,Unemployed,81.52924067702746,lipstick,home electronics food beauty
+28,Female,53971.515021248255,Master,False,1,Hollowayport,Artist,87.3343607744195,ball,sports furniture clothing home beauty
+47,Female,67935.4174500432,PhD,False,2,New Morgan,Engineer,65.9834079744114,novel,beauty sports books
+62,Male,41942.34658462829,Bachelor,True,0,South Kristinechester,Scientist,80.00079459790794,novel,books food home sports beauty
+49,Female,68556.32951900417,Bachelor,False,0,Jensenburgh,Businessman,96.67401368244738,mobile,electronics
+36,Female,51233.737373358046,PhD,False,0,Robertsville,HR,102.87105029289643,perfume,furniture beauty books
+55,Male,61081.289996631655,Master,True,2,Rosshaven,Artist,117.302592127292,pants,clothing
+43,Male,51594.723354488044,Master,True,2,Josephport,Retired,129.5434185715615,maggi,food electronics
+62,Female,52373.20439375634,Master,False,3,Josefurt,Housewife,95.75321020682362,encyclopedia,home furniture clothing books
+59,Male,31638.887388006326,Bachelor,True,3,Mullenmouth,Scientist,85.5266350751232,curtains,sports furniture home
+39,Female,59052.90575809126,Master,True,3,New Carol,Businessman,114.8168892773967,lipstick,beauty
+41,Male,29337.77865658134,High School,False,3,Port Thomas,HR,90.22116434893664,encyclopedia,books home
+33,Female,72258.38200669081,High School,False,1,New Sarahtown,Lawyer,129.86228644314974,cream,electronics home beauty
+48,Female,49748.307071369745,High School,True,3,Port Danielstad,Retired,112.25171935460439,table,furniture
+61,Female,48472.754891980716,PhD,False,0,North Josephbury,HR,80.08305640431797,shirt,clothing furniture beauty
+27,Male,48180.255114206884,High School,True,0,Richardsonmouth,Retired,98.14472492160672,shoes,food furniture clothing
+33,Male,56197.65889167777,PhD,False,1,West Thomaschester,Artist,63.47224136098567,curtains,home sports books
+34,Male,31188.851608730638,Bachelor,False,1,Lisaland,Unemployed,110.62772683045063,ball,sports food books
+29,Male,40597.0115009189,Master,False,3,Port Robertfort,HR,105.97998849154837,carpet,beauty food home
+20,Male,47778.881580752604,Bachelor,True,0,East Krista,Retired,69.0377343386811,dictionary,books furniture clothing
+63,Male,45039.55229258654,PhD,False,3,Marcusburgh,Artist,65.2572123618172,laptop,electronics beauty books
+18,Female,45686.46645338517,High School,True,3,South Kevinmouth,Housewife,87.06476539613644,table,furniture food beauty
+28,Female,35062.976045668904,Bachelor,True,3,East Matthewport,HR,56.270923398122896,shirt,clothing furniture food
+50,Female,51286.77006164503,Bachelor,True,2,Stephaniemouth,Scientist,95.3574689240146,carpet,food electronics home
+25,Female,58301.840533189745,PhD,True,3,Lindaton,Artist,142.46749003448485,curtains,home food sports beauty
+52,Male,59410.1153851423,High School,True,0,New Apriltown,Salesman,110.9098670367701,carpet,sports home beauty
+52,Male,61775.02209050491,Bachelor,False,1,Michaelberg,Salesman,99.57026400903395,ball,beauty food home sports
+26,Female,42447.51435100526,Master,False,3,Johnnystad,Unemployed,110.1091971314052,bed,books furniture home
+18,Male,66935.9611165606,Bachelor,True,1,Josephstad,Businessman,109.60616662322194,laptop,electronics home books
+63,Female,40160.12356543886,Bachelor,True,1,Katherinemouth,Salesman,120.85001457696404,novel,furniture sports books
+46,Male,46185.84395554335,PhD,False,3,New Ginamouth,HR,86.71584623694007,perfume,clothing beauty
+50,Female,28510.73368630551,Master,False,2,Lake Tammyshire,Housewife,142.5149938401202,table,food furniture
+45,Male,49649.55824566794,Master,True,2,Carrport,Salesman,118.08647985008054,dictionary,home books
+56,Male,57387.70386294932,PhD,False,0,Mccormickland,Doctor,90.41814528401274,ball,sports beauty
+36,Male,44825.64318399921,PhD,False,0,Stevensborough,Housewife,92.72930180642015,biscuits,beauty food
+25,Male,49877.32639271137,PhD,True,2,Reyesberg,HR,78.94793299222201,lipstick,books food home beauty
+45,Female,57315.77653182078,Master,True,0,Fisherstad,Housewife,127.64318775603556,lipstick,electronics beauty
+45,Female,49476.66160756553,Master,True,0,Joshuachester,Doctor,54.759988080862115,bed,furniture food beauty
+36,Female,52454.08665800989,Master,True,1,New Amanda,Businessman,88.40796867436764,shoes,clothing food
+39,Female,65374.51430072397,Master,False,2,North Emily,Lawyer,130.81236500825034,dictionary,food clothing books
+43,Female,57160.45422682951,Bachelor,True,3,East Michellebury,Scientist,101.93893677435858,shoes,home clothing
+57,Male,46716.816257306586,PhD,False,1,Dianeville,Scientist,119.86001621646953,gloves,sports electronics
+46,Female,47705.93730841343,High School,True,3,East Scott,Lawyer,95.59115602836982,cream,beauty books
+55,Male,56720.38177501842,Master,False,1,Gardnertown,Retired,115.90260232795579,sofa,books home
+53,Male,42043.866309717996,Master,True,2,Benjaminmouth,Unemployed,89.71970590752638,encyclopedia,electronics clothing books
+52,Male,50542.15622648748,PhD,False,3,East Devon,Engineer,55.789524269648886,chips,furniture food beauty
+34,Male,53943.592836294454,Bachelor,False,2,West Alex,Unemployed,134.3338136301099,bat,clothing sports beauty books
+44,Female,62918.47735895562,Bachelor,False,0,South Josephside,Housewife,91.34775371793725,shirt,food clothing
+51,Male,51375.59642018304,High School,False,3,South Meganport,Doctor,134.1399393843139,carpet,home clothing
+21,Female,60452.71380138495,High School,True,3,Kevinmouth,Retired,112.632025001856,biscuits,sports food
+24,Female,46222.21566541244,PhD,True,0,Lake Michael,Engineer,126.82704398061132,shoes,beauty electronics clothing
+24,Male,52114.30117320886,Bachelor,False,3,Amberberg,Doctor,76.89333925481627,gloves,books sports beauty
+39,Female,47425.15798765414,High School,False,2,Nancyburgh,Unemployed,90.52764983923996,cream,electronics beauty
+42,Female,49974.58079645256,High School,True,3,South Brandiland,Engineer,109.94156139798991,encyclopedia,furniture clothing home beauty books
+48,Male,50456.836857849645,Master,True,0,New Calebbury,Engineer,73.74067981727379,shoes,clothing food sports beauty books
+53,Female,60552.020301781056,Master,False,0,Sandovalmouth,HR,82.88832226912865,chips,food
+24,Female,57390.98178851427,Master,True,3,Masonshire,Unemployed,101.66933197553647,curtains,home books
+23,Male,46629.93437719729,PhD,True,0,Port Edwardberg,Unemployed,91.01090129645894,maggi,sports electronics food beauty
+27,Male,29920.101430961942,High School,False,1,West Andrewfurt,Housewife,135.35040726233873,gloves,beauty sports
+21,Male,64159.11303189024,Bachelor,False,3,West Zacharyberg,Housewife,112.15750858655747,lipstick,books electronics beauty
+36,Male,30899.228749243513,Master,False,2,East Walterview,Engineer,93.37837905885479,bat,electronics sports
+32,Female,48455.543312829075,Bachelor,False,1,East Samanthatown,Businessman,100.44610266872418,maggi,furniture food sports books
+50,Male,47512.42680181934,Master,False,0,Santosland,Unemployed,97.8490428494187,chair,clothing furniture sports
+56,Male,59499.2866755638,Master,False,2,Lake Richard,Retired,129.42242325064703,dictionary,food electronics books
+29,Female,59530.45264218691,Bachelor,True,0,West Leslie,Retired,103.69060899981721,mobile,home electronics
+63,Female,40634.444521202975,Master,False,2,New Kaylee,Businessman,104.70003522150876,bat,sports food
+64,Female,51370.110613636156,PhD,True,0,Colonburgh,Artist,89.48289194348078,monitor,beauty electronics books
+39,Female,46453.85283402358,High School,False,0,East Dakota,Scientist,56.27500100738504,lipstick,books furniture beauty
+57,Female,42605.968417282726,Master,False,0,Burtonchester,Doctor,107.47027363850768,laptop,electronics
+54,Female,41498.105484637694,Bachelor,True,2,Graychester,Artist,71.96301397962077,perfume,furniture clothing home beauty books
+27,Male,46322.0575018827,Bachelor,True,3,Jensenstad,Housewife,86.75938698532204,table,clothing furniture sports
+64,Male,45891.487456879884,High School,False,1,Andradefort,Unemployed,91.19559345688427,maggi,food electronics home sports
+59,Female,65722.68156374464,Bachelor,True,1,Patrickchester,Unemployed,128.38618133000526,ball,home sports
+63,Female,68354.5825613484,Master,False,2,North Travisshire,Lawyer,76.07885389728452,bat,sports
+27,Male,37657.74053960543,Master,False,2,Markborough,Artist,98.80589114881789,lipstick,beauty electronics food sports
+23,Male,50250.66229046997,PhD,True,2,Collinsside,Doctor,84.96798229922769,mobile,books electronics clothing home sports
+39,Male,46240.10913348,High School,False,0,Lake Emmafurt,Retired,135.08512910701018,dictionary,electronics home sports beauty books
+43,Female,44907.86209683854,Master,False,1,Beverlyfort,Salesman,109.65881051432788,table,furniture electronics beauty
+46,Male,64748.02191999898,Master,False,2,Lovefurt,Unemployed,116.83000411308308,shirt,clothing sports
+25,Female,58482.832825716614,Bachelor,False,0,New Valerie,Doctor,100.72838732000015,shirt,food electronics clothing
+35,Male,51898.02080895441,PhD,True,2,Port Amanda,Doctor,91.10070356106237,mobile,home electronics clothing
+37,Male,45225.78329057563,Master,False,3,Lake Danielville,Salesman,130.55234167510773,novel,sports furniture beauty books
+62,Female,61686.10488418382,PhD,True,3,New Glenda,Businessman,92.84674106775407,encyclopedia,beauty books
+56,Male,54543.97171278544,High School,False,2,West Kevin,Retired,73.61892492449914,encyclopedia,books food
+34,Male,52249.66507573619,Master,True,0,West Angel,Housewife,105.658991612885,bed,electronics furniture sports
+64,Male,36821.33729264273,Bachelor,True,0,North Virginia,Engineer,69.79747398471918,cream,furniture beauty
+21,Male,47161.65488950144,High School,False,3,New Amber,Lawyer,109.39983168723185,shirt,clothing furniture
+56,Female,45431.703874904524,Master,False,2,Port Juliamouth,Scientist,101.90741863889158,biscuits,food books
+61,Female,40044.58820310812,High School,True,0,Lake Matthew,Unemployed,113.07721044952795,curtains,home clothing beauty
+58,Male,73513.39333892296,PhD,True,3,Moranport,Lawyer,116.15187293421741,gloves,sports home
+45,Female,38363.08179988364,Master,False,0,Ericland,Engineer,98.46749924305765,perfume,beauty
+28,Male,64971.84182288026,PhD,False,3,Michellefurt,Retired,105.29055981478888,bat,books electronics food home sports
+56,Female,44348.84138102881,Master,True,2,Lake Sean,Engineer,78.87925114447552,laptop,electronics
+33,Female,43061.64940422977,High School,True,0,Lake Ashleytown,Artist,127.64805991518537,novel,furniture clothing food home beauty books
+51,Male,53486.63351867767,High School,False,2,Mitchellbury,Engineer,107.43195516663684,shoes,clothing
+36,Male,45811.31769034883,High School,True,3,South Biancahaven,Businessman,102.89624664134055,chips,food
+51,Male,63098.969578033386,PhD,False,1,Flemingmouth,Lawyer,78.69497666019541,laptop,home electronics clothing beauty
+40,Male,48174.0683229948,High School,True,1,Williamview,Salesman,75.74279291622372,curtains,sports home beauty
+64,Male,32321.497303143926,PhD,False,3,East Amyburgh,Doctor,96.93828420455544,perfume,beauty electronics home books
+42,Female,45170.91878706779,Master,True,2,Anthonymouth,Unemployed,76.88570941315865,dictionary,books home sports
+42,Male,54757.65271430474,PhD,True,1,Richardhaven,Retired,119.47831900118138,ball,electronics sports books
+30,Female,41629.5398181769,Bachelor,False,3,Bryanmouth,Businessman,118.6111001658129,novel,furniture food books
+23,Male,60663.89348962556,Bachelor,True,1,Richmondshire,Unemployed,98.33421921901989,bat,clothing sports
+26,Female,47247.47493025682,High School,True,1,Welchland,Housewife,80.46110813069016,lipstick,food beauty
+37,Male,28945.447474009106,Bachelor,True,3,Braymouth,Engineer,75.32969419760005,perfume,home electronics beauty
+20,Female,61830.528631131136,Master,False,1,Valdezshire,Housewife,105.72331348241252,ball,sports books
+33,Male,43988.19811660803,PhD,True,3,New Dianashire,Retired,141.1723186936755,shoes,beauty clothing
+41,Male,36747.1525209805,High School,False,3,New Marthaberg,Artist,95.70202264470677,novel,books electronics food home
+53,Male,34314.17917251573,Bachelor,False,1,Lake Cindy,Lawyer,96.24220371146916,mobile,electronics food
+41,Female,52459.68039800273,PhD,True,0,South Stacy,Businessman,100.25197385432752,bed,furniture sports beauty
+55,Female,59099.57775260885,PhD,False,2,Jacobburgh,Retired,108.90597957629566,curtains,clothing furniture food home books
+35,Male,38112.956404547345,Master,False,0,South Lorraine,Scientist,81.5748378352676,pants,food electronics clothing
+56,Male,48651.43455091765,Master,False,0,Cruzport,Scientist,102.69884202709436,encyclopedia,home food books
+20,Male,41225.92997448343,Master,True,2,West Aimee,Housewife,58.10285900305949,pants,sports furniture clothing home beauty
+49,Female,59344.5811843784,Master,True,3,New Michellefort,Salesman,94.8087597994815,perfume,beauty
+45,Male,42395.70803402599,Master,True,2,Lake Garrett,Unemployed,115.65463938384431,bat,books sports beauty
+59,Male,51452.53855134162,PhD,True,1,Port Justin,Scientist,86.0479059726877,sofa,electronics home beauty books
+59,Female,53678.04381726076,PhD,True,2,West Carrieview,Businessman,81.96431522635423,biscuits,furniture food
+18,Female,44881.10927621864,Master,False,0,Johnsonview,Unemployed,84.09060740840144,pants,clothing home books
+21,Female,40084.10441610245,Master,True,1,Castillostad,Housewife,79.75326443871772,mobile,food electronics furniture sports beauty
+64,Male,43973.55008493944,Master,True,1,South Erica,Salesman,82.24469284775813,shirt,home electronics clothing
+27,Female,54162.518497704325,High School,False,3,West Mckenzieborough,Artist,101.36380253679779,ball,sports electronics books
+36,Male,42746.84587125786,PhD,False,2,Garyfurt,HR,85.85883218940333,table,beauty furniture sports books
+59,Female,51890.2872349272,Master,False,3,Chaneystad,Doctor,95.02903847874539,carpet,books home
+38,Male,53990.72471829079,Master,True,0,West Robert,Housewife,102.79946236937433,mobile,electronics beauty
+64,Male,56949.73704120083,Bachelor,False,0,South Carolynside,Housewife,104.97875425822704,bed,furniture electronics
+48,Female,51428.476388078605,PhD,True,0,Davidborough,Engineer,110.24752036226852,ball,clothing electronics food sports
+56,Female,44928.44333791607,Bachelor,False,1,Melissaberg,Engineer,107.88263877447532,curtains,food home books
+64,Male,49157.077152678445,Bachelor,False,3,East Barbaraburgh,Unemployed,96.07804695844678,encyclopedia,home books
+19,Male,51009.24539969646,Master,True,2,Tammymouth,HR,130.176055880121,novel,sports electronics beauty books
+59,Male,33044.95188489255,PhD,False,3,East Lindafort,Retired,103.53947088391035,maggi,beauty furniture food books
+54,Male,58995.94798576523,Master,True,2,Port Ryan,Scientist,121.49268200731814,novel,books electronics sports
+41,Male,50891.77881833846,PhD,True,0,North Davidburgh,Engineer,130.04988856657795,chips,electronics furniture clothing food sports
+27,Female,58940.332769120054,PhD,False,3,East Christopherstad,Retired,100.1527859386344,bed,furniture electronics food home
+54,Female,67071.87088156326,Bachelor,False,0,South Ashleyhaven,Scientist,82.32272480346194,pants,clothing
+41,Female,56957.35193003291,High School,True,1,Tuckerbury,Salesman,41.975823091935425,sofa,food home sports beauty
+28,Female,48261.63545013206,High School,True,2,North Joshua,Housewife,79.90360833403892,carpet,home
+43,Male,48961.90600566573,PhD,True,3,Xavierbury,HR,94.51203628352928,ball,sports
+33,Female,56901.84719924685,Bachelor,False,3,Sarahmouth,Unemployed,115.34786223927557,lipstick,beauty
+55,Male,41957.92957957794,Master,False,0,North Markbury,Retired,114.98490592290315,bed,books furniture food
+43,Female,52565.61536438526,PhD,False,3,East Samuel,Businessman,101.29028073237842,novel,electronics food sports books
+45,Male,39452.161582983856,Master,True,2,Alexiston,Scientist,91.51432876029803,monitor,furniture electronics books
+51,Female,42604.10554862373,PhD,True,3,Janeborough,Lawyer,91.28386848458584,shirt,clothing
+31,Female,38102.45561787404,Master,False,2,South Tylerhaven,Housewife,93.402013278787,maggi,food electronics clothing beauty
+37,Female,50318.20825127652,Bachelor,True,2,Englishshire,Artist,127.03661662488274,dictionary,home food sports books
+46,Female,58864.68402354271,High School,False,2,Kelliehaven,Retired,93.64940231186462,laptop,sports electronics home beauty
+35,Female,38610.66206403775,PhD,True,3,Graytown,Lawyer,88.02995166616932,lipstick,beauty electronics
+27,Male,52399.283682960886,PhD,False,1,Lake Becky,HR,106.1167128038864,encyclopedia,books home beauty
+23,Female,37874.864649034345,Bachelor,False,1,West Elizabeth,Doctor,92.39978577046698,monitor,electronics beauty
+46,Female,43494.165780795716,Bachelor,True,1,North Andrew,Housewife,99.22592182255782,perfume,furniture home sports beauty
+25,Male,37364.32371589512,PhD,True,2,Michaelberg,HR,95.6491386518574,shoes,clothing
+57,Female,66021.79156986217,Bachelor,True,1,East Deannaberg,Housewife,99.43765561962559,laptop,food electronics home
+45,Male,47324.47188544186,High School,False,2,Perryview,Doctor,76.76475259303902,sofa,home electronics beauty
+24,Female,45799.425423911125,High School,False,2,Glovermouth,HR,124.49628766831741,bed,sports furniture
+19,Female,53929.9266212794,High School,False,1,Lake Anthony,HR,135.06753914110413,table,beauty furniture
+32,Male,43606.4855511904,Bachelor,True,3,West Richard,Housewife,33.15460762453873,encyclopedia,books sports
+54,Male,52316.526988769154,High School,True,3,Claytonstad,Salesman,103.70559301035252,mobile,electronics furniture food home sports
+51,Male,36943.241990731,Bachelor,True,1,Tinaburgh,Doctor,130.89617655787703,carpet,furniture home
+31,Male,35741.448957622626,High School,True,0,Kellyfurt,Scientist,82.55091133309779,shoes,clothing books
+61,Male,34246.77306326943,Master,True,3,Solisfurt,HR,103.35744082070975,bed,food furniture
+56,Female,45494.22559124395,Bachelor,False,0,Dawsonmouth,Engineer,85.1590227224369,biscuits,home clothing food
+64,Female,68740.44200637276,PhD,True,0,Lake Garyport,Salesman,101.4346500112247,bat,sports clothing
+18,Female,44348.446679939334,Bachelor,True,0,Ericfurt,Retired,97.64998780156691,perfume,beauty
+61,Male,39160.08367652033,Master,False,0,Port Jose,Housewife,105.59148548653422,shirt,books clothing

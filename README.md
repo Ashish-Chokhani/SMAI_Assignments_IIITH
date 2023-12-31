@@ -14,6 +14,7 @@ Course Title: Statistical Methods in AI
 - Proficiency in programming, preferably in Python.
 - Familiarity with data manipulation and visualization libraries, such as NumPy, pandas, and Matplotlib.
 - Basic knowledge of machine learning concepts.
+- Basic linear algebra, probability theory, and calculus.
 
 ## Course Topics:
 ### Introduction to Statistical Modeling
